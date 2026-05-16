@@ -1,0 +1,1501 @@
+ticket_id,channel,customer_message,sentiment_label,word_count,urgent_flag
+TKT00001,chat,I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.,neutral,18,1
+TKT00002,phone,I need information about the payment process.,neutral,7,0
+TKT00003,email,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00004,social,My refund is still pending and this experience is frustrating. My ticket number is 33927.,negative,15,1
+TKT00005,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00006,social,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00007,chat,I am satisfied with the plan and would recommend it to others. My ticket number is 99198.,positive,17,0
+TKT00008,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00009,phone,I need help finding the invoice for my last order.,neutral,10,0
+TKT00010,phone,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00011,phone,Great service and clear communication from the support team.,positive,9,0
+TKT00012,social,I like the new video call and it is easy to use. I appreciate the quick response.,positive,17,0
+TKT00013,social,Your support team resolved my issue quickly. Thank you. I appreciate the quick response.,positive,14,0
+TKT00014,phone,I am satisfied with the plan and would recommend it to others. My ticket number is 57739. I appreciate the quick response.,positive,22,0
+TKT00015,chat,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT00016,email,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00017,email,Billing is incorrect and I was charged twice this month. My ticket number is 91365.,negative,15,0
+TKT00018,email,The subscription keeps failing and support has not resolved my issue.,negative,11,0
+TKT00019,app,Can someone explain the difference between the plans? Please respond as soon as possible.,neutral,14,1
+TKT00020,chat,The app crashes whenever I try to use video call.,negative,10,1
+TKT00021,social,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00022,phone,I am checking if there is any scheduled maintenance today. Please respond as soon as possible.,neutral,16,1
+TKT00023,social,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00024,app,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00025,chat,The mobile app is working well and I am happy with the service. My ticket number is 50218.,positive,18,0
+TKT00026,email,I need information about the payment process.,neutral,7,0
+TKT00027,social,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00028,social,Billing is incorrect and I was charged twice this month. My ticket number is 78132.,negative,15,1
+TKT00029,app,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00030,chat,The response from the team was helpful and professional. My ticket number is 77543.,positive,14,0
+TKT00031,email,The response from the team was helpful and professional. My ticket number is 32658.,positive,14,0
+TKT00032,email,I like the new tracking and it is easy to use.,positive,11,0
+TKT00033,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT00034,chat,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00035,app,The refund process was fast and convenient.,positive,7,0
+TKT00036,email,Can you confirm whether my ticket has been assigned? My ticket number is 30284.,neutral,14,0
+TKT00037,app,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00038,chat,I want to cancel because the service quality is poor and unreliable. My ticket number is 69921.,negative,17,1
+TKT00039,social,The installation was completed on time and everything works perfectly. My ticket number is 30341.,positive,15,0
+TKT00040,social,I like the new tracking and it is easy to use.,positive,11,0
+TKT00041,chat,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00042,email,Great service and clear communication from the support team.,positive,9,0
+TKT00043,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00044,app,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT00045,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT00046,social,The delivery was late and the package arrived damaged. My ticket number is 52844. Please respond as soon as possible.,negative,20,1
+TKT00047,email,Great service and clear communication from the support team. My ticket number is 98502.,positive,14,0
+TKT00048,social,The app crashes whenever I try to use login. My ticket number is 14935.,negative,14,1
+TKT00049,phone,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00050,email,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00051,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,0
+TKT00052,email,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00053,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 36062.,negative,17,0
+TKT00054,social,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00055,email,I need help finding the invoice for my last order. My ticket number is 29782.,neutral,15,0
+TKT00056,email,The service plan keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,18,1
+TKT00057,chat,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT00058,app,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00059,phone,I like the new login and it is easy to use.,positive,11,0
+TKT00060,phone,I am very unhappy because my mobile app has not worked since three days ago. Please respond as soon as possible.,negative,21,1
+TKT00061,phone,The account keeps failing and support has not resolved my issue.,negative,11,1
+TKT00062,email,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00063,email,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00064,email,The insurance policy is working well and I am happy with the service.,positive,13,0
+TKT00065,social,I like the new payment and it is easy to use. My ticket number is 65556.,positive,16,0
+TKT00066,chat,The app crashes whenever I try to use analytics. My ticket number is 13544.,negative,14,1
+TKT00067,chat,The internet speed is slow and customer care is not helping. Please respond as soon as possible.,negative,17,1
+TKT00068,email,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00069,email,I need help finding the invoice for my last order. My ticket number is 46883.,neutral,15,0
+TKT00070,email,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00071,app,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00072,phone,The response from the team was helpful and professional.,positive,9,0
+TKT00073,phone,Please provide the steps to activate video call. Please respond as soon as possible.,neutral,14,1
+TKT00074,social,Can you share the status of my router request? My ticket number is 25533.,neutral,14,0
+TKT00075,email,The delivery was late and the package arrived damaged. My ticket number is 68894.,negative,14,0
+TKT00076,email,Please provide the steps to activate login. My ticket number is 97843.,neutral,12,0
+TKT00077,email,I am very unhappy because my router has not worked since yesterday. Please respond as soon as possible.,negative,18,1
+TKT00078,email,I would like to know more about the available plans.,neutral,10,0
+TKT00079,chat,The response from the team was helpful and professional. My ticket number is 62509. I appreciate the quick response.,positive,19,0
+TKT00080,app,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00081,chat,The installation was completed on time and everything works perfectly. My ticket number is 83565. I appreciate the quick response.,positive,20,0
+TKT00082,app,I like the new tracking and it is easy to use.,positive,11,0
+TKT00083,app,Please tell me how to update my account details. My ticket number is 41529.,neutral,14,0
+TKT00084,social,I am very unhappy because my account has not worked since this morning.,negative,13,1
+TKT00085,phone,The router keeps failing and support has not resolved my issue.,negative,11,1
+TKT00086,phone,I have raised multiple tickets but nobody has fixed the problem.,negative,11,0
+TKT00087,social,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00088,app,Can you share the status of my account request?,neutral,9,0
+TKT00089,app,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT00090,chat,Can someone explain the difference between the plans?,neutral,8,0
+TKT00091,phone,I have raised multiple tickets but nobody has fixed the problem.,negative,11,0
+TKT00092,phone,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT00093,social,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00094,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00095,social,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00096,social,I need help finding the invoice for my last order. My ticket number is 68255.,neutral,15,0
+TKT00097,phone,I need help finding the invoice for my last order.,neutral,10,0
+TKT00098,chat,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00099,email,I am checking if there is any scheduled maintenance today. Please respond as soon as possible.,neutral,16,1
+TKT00100,chat,I am very unhappy because my dashboard has not worked since three days ago. Please respond as soon as possible.,negative,20,1
+TKT00101,email,The refund process was fast and convenient.,positive,7,0
+TKT00102,social,Great service and clear communication from the support team.,positive,9,0
+TKT00103,email,Billing is incorrect and I was charged twice this month. My ticket number is 56483.,negative,15,1
+TKT00104,chat,The refund process was fast and convenient. My ticket number is 82331.,positive,12,0
+TKT00105,app,Can someone explain the difference between the plans?,neutral,8,0
+TKT00106,phone,Please provide the steps to activate analytics.,neutral,7,0
+TKT00107,phone,The refund process was fast and convenient.,positive,7,0
+TKT00108,app,Can you confirm whether my ticket has been assigned? My ticket number is 83509.,neutral,14,0
+TKT00109,social,The app crashes whenever I try to use profile update. Please respond as soon as possible.,negative,16,1
+TKT00110,email,I like the new profile update and it is easy to use.,positive,12,0
+TKT00111,social,The delivery was smooth and the product quality is excellent. My ticket number is 79102.,positive,15,0
+TKT00112,chat,I am very unhappy because my router has not worked since three days ago. My ticket number is 24804.,negative,19,0
+TKT00113,email,The product quality is bad and I regret purchasing it. My ticket number is 37963.,negative,15,1
+TKT00114,phone,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT00115,phone,The mobile app is working well and I am happy with the service.,positive,13,0
+TKT00116,social,The dashboard keeps failing and support has not resolved my issue.,negative,11,1
+TKT00117,phone,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT00118,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT00119,chat,The internet speed is slow and customer care is not helping. Please respond as soon as possible.,negative,17,1
+TKT00120,social,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00121,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT00122,email,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00123,chat,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00124,email,Please provide the steps to activate notifications. My ticket number is 20303.,neutral,12,0
+TKT00125,email,The product quality is bad and I regret purchasing it. My ticket number is 63843.,negative,15,0
+TKT00126,email,Can you confirm whether my ticket has been assigned? My ticket number is 73636. Please respond as soon as possible.,neutral,20,1
+TKT00127,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT00128,phone,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00129,app,The response from the team was helpful and professional. My ticket number is 57734.,positive,14,0
+TKT00130,social,I am very unhappy because my service plan has not worked since three days ago. Please respond as soon as possible.,negative,21,1
+TKT00131,app,The dashboard is working well and I am happy with the service.,positive,12,0
+TKT00132,app,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00133,chat,I need help finding the invoice for my last order. My ticket number is 98508.,neutral,15,0
+TKT00134,app,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00135,email,I want to cancel because the service quality is poor and unreliable. My ticket number is 20363. Please respond as soon as possible.,negative,23,1
+TKT00136,app,My refund is still pending and this experience is frustrating. My ticket number is 80366. Please respond as soon as possible.,negative,21,1
+TKT00137,social,Please provide the steps to activate report download. My ticket number is 20372. Please respond as soon as possible.,neutral,19,1
+TKT00138,app,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00139,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00140,social,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 55314.,negative,16,0
+TKT00141,chat,My refund is still pending and this experience is frustrating.,negative,10,1
+TKT00142,email,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00143,chat,Billing is incorrect and I was charged twice this month. My ticket number is 71239.,negative,15,1
+TKT00144,social,Your support team resolved my issue quickly. Thank you. My ticket number is 68648.,positive,14,0
+TKT00145,chat,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00146,email,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 82756.,negative,16,0
+TKT00147,chat,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00148,chat,The response from the team was helpful and professional.,positive,9,0
+TKT00149,phone,My refund is still pending and this experience is frustrating.,negative,10,1
+TKT00150,app,The router keeps failing and support has not resolved my issue.,negative,11,0
+TKT00151,app,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT00152,social,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00153,phone,The app crashes whenever I try to use payment.,negative,9,0
+TKT00154,chat,The refund process was fast and convenient. My ticket number is 51222.,positive,12,0
+TKT00155,email,Your support team resolved my issue quickly. Thank you. My ticket number is 40480. I appreciate the quick response.,positive,19,0
+TKT00156,chat,The installation was completed on time and everything works perfectly. My ticket number is 36703.,positive,15,0
+TKT00157,email,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT00158,social,Great service and clear communication from the support team. I appreciate the quick response.,positive,14,0
+TKT00159,chat,I want to cancel because the service quality is poor and unreliable. My ticket number is 15869.,negative,17,1
+TKT00160,email,I am very unhappy because my subscription has not worked since after the recent update.,negative,15,1
+TKT00161,chat,I need help finding the invoice for my last order. My ticket number is 20959.,neutral,15,0
+TKT00162,phone,I would like to know more about the available plans.,neutral,10,0
+TKT00163,social,I would like to know more about the available plans.,neutral,10,0
+TKT00164,email,I need information about the payment process.,neutral,7,0
+TKT00165,phone,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT00166,email,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00167,phone,Please provide the steps to activate analytics. My ticket number is 94843.,neutral,12,0
+TKT00168,social,The router keeps failing and support has not resolved my issue. My ticket number is 68591.,negative,16,1
+TKT00169,social,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00170,social,The refund process was fast and convenient.,positive,7,0
+TKT00171,chat,Please provide the steps to activate profile update. Please respond as soon as possible.,neutral,14,1
+TKT00172,app,Can someone explain the difference between the plans?,neutral,8,0
+TKT00173,phone,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00174,email,I would like to know more about the available plans.,neutral,10,0
+TKT00175,social,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00176,email,Please tell me how to update my account details.,neutral,9,0
+TKT00177,social,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00178,phone,The service plan keeps failing and support has not resolved my issue. My ticket number is 21824.,negative,17,1
+TKT00179,social,Please tell me how to update my account details.,neutral,9,0
+TKT00180,app,The dashboard keeps failing and support has not resolved my issue. My ticket number is 31327. Please respond as soon as possible.,negative,22,1
+TKT00181,phone,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00182,phone,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00183,phone,Can you share the status of my order request? My ticket number is 85756. Please respond as soon as possible.,neutral,20,1
+TKT00184,phone,Can you share the status of my subscription request? Please respond as soon as possible.,neutral,15,1
+TKT00185,app,Can you share the status of my service plan request?,neutral,10,0
+TKT00186,social,Great service and clear communication from the support team. My ticket number is 21660.,positive,14,0
+TKT00187,social,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 65008. Please respond as soon as possible.,negative,22,1
+TKT00188,email,I am satisfied with the plan and would recommend it to others. My ticket number is 56062.,positive,17,0
+TKT00189,email,The product quality is bad and I regret purchasing it. My ticket number is 70794.,negative,15,1
+TKT00190,social,Billing is incorrect and I was charged twice this month. My ticket number is 67748. Please respond as soon as possible.,negative,21,1
+TKT00191,email,I am very unhappy because my subscription has not worked since yesterday.,negative,12,0
+TKT00192,chat,The response from the team was helpful and professional.,positive,9,0
+TKT00193,app,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00194,social,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00195,email,Great service and clear communication from the support team.,positive,9,0
+TKT00196,app,The subscription keeps failing and support has not resolved my issue. My ticket number is 56110.,negative,16,0
+TKT00197,chat,I want to cancel because the service quality is poor and unreliable. My ticket number is 57178.,negative,17,0
+TKT00198,app,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT00199,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT00200,phone,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00201,email,Please tell me how to update my account details. My ticket number is 68239.,neutral,14,0
+TKT00202,chat,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00203,phone,Can you share the status of my subscription request? My ticket number is 74668.,neutral,14,0
+TKT00204,app,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00205,app,The refund process was fast and convenient.,positive,7,0
+TKT00206,chat,Can you share the status of my mobile app request?,neutral,10,0
+TKT00207,phone,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00208,email,The installation was completed on time and everything works perfectly. My ticket number is 64746.,positive,15,0
+TKT00209,social,The order keeps failing and support has not resolved my issue.,negative,11,0
+TKT00210,app,The product quality is bad and I regret purchasing it. My ticket number is 74528. Please respond as soon as possible.,negative,21,1
+TKT00211,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00212,social,I need information about the payment process.,neutral,7,0
+TKT00213,chat,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 46363.,negative,16,0
+TKT00214,email,Can someone explain the difference between the plans?,neutral,8,0
+TKT00215,phone,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00216,app,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00217,social,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00218,chat,My refund is still pending and this experience is frustrating. My ticket number is 41671.,negative,15,0
+TKT00219,phone,I like the new analytics and it is easy to use.,positive,11,0
+TKT00220,chat,The subscription is working well and I am happy with the service.,positive,12,0
+TKT00221,chat,I am very unhappy because my insurance policy has not worked since three days ago. Please respond as soon as possible.,negative,21,1
+TKT00222,phone,I am satisfied with the plan and would recommend it to others. My ticket number is 23863.,positive,17,0
+TKT00223,email,I am very unhappy because my mobile app has not worked since last week.,negative,14,0
+TKT00224,social,I am very unhappy because my subscription has not worked since yesterday. Please respond as soon as possible.,negative,18,1
+TKT00225,app,Please provide the steps to activate video call. My ticket number is 25289. Please respond as soon as possible.,neutral,19,1
+TKT00226,app,Please tell me how to update my account details.,neutral,9,0
+TKT00227,social,The product quality is bad and I regret purchasing it. Please respond as soon as possible.,negative,16,1
+TKT00228,chat,The refund process was fast and convenient. My ticket number is 41492.,positive,12,0
+TKT00229,app,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00230,chat,The mobile app is working well and I am happy with the service. My ticket number is 55121.,positive,18,0
+TKT00231,email,Great service and clear communication from the support team.,positive,9,0
+TKT00232,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT00233,social,I am checking if there is any scheduled maintenance today. My ticket number is 23948.,neutral,15,0
+TKT00234,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT00235,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00236,chat,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00237,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00238,chat,Your support team resolved my issue quickly. Thank you. My ticket number is 17074. I appreciate the quick response.,positive,19,0
+TKT00239,phone,Can someone explain the difference between the plans? Please respond as soon as possible.,neutral,14,1
+TKT00240,email,I have raised multiple tickets but nobody has fixed the problem.,negative,11,0
+TKT00241,chat,The app crashes whenever I try to use login.,negative,9,1
+TKT00242,chat,The response from the team was helpful and professional. My ticket number is 67528.,positive,14,0
+TKT00243,app,I would like to know more about the available plans. My ticket number is 27123.,neutral,15,0
+TKT00244,social,I am very unhappy because my dashboard has not worked since this morning. My ticket number is 99414.,negative,18,1
+TKT00245,chat,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00246,email,The subscription keeps failing and support has not resolved my issue. My ticket number is 99474.,negative,16,0
+TKT00247,email,Please provide the steps to activate tracking.,neutral,7,0
+TKT00248,app,The account is working well and I am happy with the service. I appreciate the quick response.,positive,17,0
+TKT00249,email,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT00250,email,Can someone explain the difference between the plans?,neutral,8,0
+TKT00251,phone,Please provide the steps to activate payment.,neutral,7,0
+TKT00252,chat,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00253,social,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00254,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00255,social,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00256,email,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00257,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00258,chat,I need help finding the invoice for my last order. My ticket number is 54411.,neutral,15,0
+TKT00259,chat,The response from the team was helpful and professional.,positive,9,0
+TKT00260,app,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 57951.,negative,16,0
+TKT00261,phone,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00262,phone,The refund process was fast and convenient.,positive,7,0
+TKT00263,email,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00264,social,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00265,app,Can you share the status of my order request? My ticket number is 54786. Please respond as soon as possible.,neutral,20,1
+TKT00266,chat,I want to understand the warranty terms for this product. My ticket number is 68547. Please respond as soon as possible.,neutral,21,1
+TKT00267,chat,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00268,chat,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00269,app,Your support team resolved my issue quickly. Thank you. My ticket number is 17318.,positive,14,0
+TKT00270,social,The internet speed is slow and customer care is not helping. My ticket number is 94622.,negative,16,1
+TKT00271,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00272,chat,Great service and clear communication from the support team. My ticket number is 96237.,positive,14,0
+TKT00273,app,Can someone explain the difference between the plans?,neutral,8,0
+TKT00274,chat,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT00275,chat,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT00276,phone,I am very unhappy because my router has not worked since yesterday. Please respond as soon as possible.,negative,18,1
+TKT00277,email,The app experience is smooth and reliable.,positive,7,0
+TKT00278,chat,I want to cancel because the service quality is poor and unreliable. My ticket number is 34419.,negative,17,0
+TKT00279,chat,I am very unhappy because my account has not worked since after the recent update. Please respond as soon as possible.,negative,21,1
+TKT00280,chat,Great service and clear communication from the support team. I appreciate the quick response.,positive,14,0
+TKT00281,email,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00282,phone,Please tell me how to update my account details. My ticket number is 58959.,neutral,14,0
+TKT00283,social,I like the new tracking and it is easy to use. My ticket number is 68024.,positive,16,0
+TKT00284,chat,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00285,email,I like the new video call and it is easy to use.,positive,12,0
+TKT00286,app,I would like to know more about the available plans.,neutral,10,0
+TKT00287,chat,Your support team resolved my issue quickly. Thank you. My ticket number is 11855.,positive,14,0
+TKT00288,app,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00289,chat,The response from the team was helpful and professional. My ticket number is 68014.,positive,14,0
+TKT00290,social,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00291,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 56365.,negative,17,1
+TKT00292,app,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00293,app,I like the new payment and it is easy to use. My ticket number is 62011.,positive,16,0
+TKT00294,social,The delivery was late and the package arrived damaged. My ticket number is 83254.,negative,14,0
+TKT00295,phone,I am very unhappy because my router has not worked since this morning. My ticket number is 96651. Please respond as soon as possible.,negative,24,1
+TKT00296,email,I need information about the payment process. My ticket number is 46287.,neutral,12,0
+TKT00297,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00298,app,The product quality is bad and I regret purchasing it. My ticket number is 84655.,negative,15,1
+TKT00299,email,I need information about the payment process.,neutral,7,0
+TKT00300,email,Can you share the status of my mobile app request? My ticket number is 30748.,neutral,15,0
+TKT00301,social,I am checking if there is any scheduled maintenance today. My ticket number is 19606.,neutral,15,0
+TKT00302,social,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00303,social,I would like to know more about the available plans.,neutral,10,0
+TKT00304,phone,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00305,social,Can someone explain the difference between the plans? My ticket number is 93545.,neutral,13,0
+TKT00306,chat,The response from the team was helpful and professional. My ticket number is 60099.,positive,14,0
+TKT00307,social,My refund is still pending and this experience is frustrating. My ticket number is 15987. Please respond as soon as possible.,negative,21,1
+TKT00308,phone,I am very unhappy because my order has not worked since this morning. My ticket number is 47065.,negative,18,0
+TKT00309,phone,Can you share the status of my subscription request?,neutral,9,0
+TKT00310,email,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00311,phone,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT00312,app,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00313,social,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00314,email,Please tell me how to update my account details. My ticket number is 58622.,neutral,14,0
+TKT00315,chat,The app crashes whenever I try to use tracking. My ticket number is 64201.,negative,14,1
+TKT00316,app,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00317,phone,I need information about the payment process.,neutral,7,0
+TKT00318,social,The response from the team was helpful and professional.,positive,9,0
+TKT00319,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT00320,social,The refund process was fast and convenient.,positive,7,0
+TKT00321,chat,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00322,social,Great service and clear communication from the support team. My ticket number is 11045.,positive,14,0
+TKT00323,phone,Can you share the status of my mobile app request?,neutral,10,0
+TKT00324,phone,Great service and clear communication from the support team.,positive,9,0
+TKT00325,phone,The product quality is bad and I regret purchasing it. My ticket number is 15624.,negative,15,0
+TKT00326,phone,I would like to know more about the available plans. My ticket number is 13589. Please respond as soon as possible.,neutral,21,1
+TKT00327,social,The insurance policy keeps failing and support has not resolved my issue.,negative,12,0
+TKT00328,email,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00329,chat,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00330,email,The app crashes whenever I try to use profile update. My ticket number is 39205.,negative,15,0
+TKT00331,email,The response from the team was helpful and professional. My ticket number is 97916.,positive,14,0
+TKT00332,email,I like the new report download and it is easy to use. My ticket number is 63290. I appreciate the quick response.,positive,22,0
+TKT00333,social,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00334,social,The order is working well and I am happy with the service.,positive,12,0
+TKT00335,phone,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00336,phone,I am very unhappy because my account has not worked since three days ago. My ticket number is 39934.,negative,19,0
+TKT00337,phone,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00338,chat,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00339,chat,I am very unhappy because my mobile app has not worked since this morning. Please respond as soon as possible.,negative,20,1
+TKT00340,email,I like the new video call and it is easy to use. My ticket number is 71400.,positive,17,0
+TKT00341,app,Please provide the steps to activate notifications.,neutral,7,0
+TKT00342,email,I want to understand the warranty terms for this product. My ticket number is 94116.,neutral,15,0
+TKT00343,chat,I want to cancel because the service quality is poor and unreliable. My ticket number is 13806. Please respond as soon as possible.,negative,23,1
+TKT00344,email,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00345,app,I want to cancel because the service quality is poor and unreliable. My ticket number is 58929. Please respond as soon as possible.,negative,23,1
+TKT00346,phone,The response from the team was helpful and professional.,positive,9,0
+TKT00347,chat,The refund process was fast and convenient. My ticket number is 57154.,positive,12,0
+TKT00348,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00349,social,The app crashes whenever I try to use notifications.,negative,9,0
+TKT00350,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00351,app,Your support team resolved my issue quickly. Thank you. I appreciate the quick response.,positive,14,0
+TKT00352,social,The insurance policy is working well and I am happy with the service.,positive,13,0
+TKT00353,social,The service plan keeps failing and support has not resolved my issue. My ticket number is 14725.,negative,17,0
+TKT00354,email,The account keeps failing and support has not resolved my issue.,negative,11,0
+TKT00355,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00356,app,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT00357,social,The app crashes whenever I try to use profile update.,negative,10,1
+TKT00358,email,I like the new analytics and it is easy to use.,positive,11,0
+TKT00359,phone,My refund is still pending and this experience is frustrating. My ticket number is 12727.,negative,15,1
+TKT00360,app,Please provide the steps to activate payment.,neutral,7,0
+TKT00361,social,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00362,phone,The refund process was fast and convenient.,positive,7,0
+TKT00363,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00364,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00365,phone,I would like to know more about the available plans. My ticket number is 29875.,neutral,15,0
+TKT00366,chat,The installation was completed on time and everything works perfectly. My ticket number is 97605.,positive,15,0
+TKT00367,phone,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT00368,social,Can you share the status of my order request? My ticket number is 24020.,neutral,14,0
+TKT00369,chat,The subscription is working well and I am happy with the service.,positive,12,0
+TKT00370,email,The mobile app keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,18,1
+TKT00371,social,Can you confirm whether my ticket has been assigned? My ticket number is 67074.,neutral,14,0
+TKT00372,phone,Please provide the steps to activate login. Please respond as soon as possible.,neutral,13,1
+TKT00373,email,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00374,social,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00375,app,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00376,app,I like the new tracking and it is easy to use.,positive,11,0
+TKT00377,chat,The delivery was smooth and the product quality is excellent. My ticket number is 18383. I appreciate the quick response.,positive,20,0
+TKT00378,social,Can someone explain the difference between the plans?,neutral,8,0
+TKT00379,app,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00380,social,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00381,phone,The delivery was late and the package arrived damaged. My ticket number is 32032.,negative,14,1
+TKT00382,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00383,email,I am very unhappy because my order has not worked since three days ago. My ticket number is 79397.,negative,19,0
+TKT00384,email,Great service and clear communication from the support team. My ticket number is 83997.,positive,14,0
+TKT00385,chat,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00386,email,I like the new video call and it is easy to use.,positive,12,0
+TKT00387,social,I would like to know more about the available plans.,neutral,10,0
+TKT00388,chat,The subscription keeps failing and support has not resolved my issue. My ticket number is 76301.,negative,16,1
+TKT00389,social,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00390,app,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00391,social,Can you share the status of my dashboard request? My ticket number is 93205.,neutral,14,0
+TKT00392,app,Can you confirm whether my ticket has been assigned? My ticket number is 89521.,neutral,14,0
+TKT00393,social,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00394,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00395,phone,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00396,social,I would like to know more about the available plans. My ticket number is 90837.,neutral,15,0
+TKT00397,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00398,social,The response from the team was helpful and professional. My ticket number is 72282. I appreciate the quick response.,positive,19,0
+TKT00399,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT00400,social,Can someone explain the difference between the plans? My ticket number is 56129.,neutral,13,0
+TKT00401,app,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00402,app,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00403,social,The product quality is bad and I regret purchasing it. My ticket number is 89289. Please respond as soon as possible.,negative,21,1
+TKT00404,chat,The order is working well and I am happy with the service.,positive,12,0
+TKT00405,email,I am checking if there is any scheduled maintenance today. My ticket number is 88882.,neutral,15,0
+TKT00406,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00407,social,Can someone explain the difference between the plans?,neutral,8,0
+TKT00408,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT00409,app,The internet speed is slow and customer care is not helping. My ticket number is 16019.,negative,16,0
+TKT00410,email,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00411,phone,I need help finding the invoice for my last order.,neutral,10,0
+TKT00412,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT00413,email,Can you share the status of my subscription request?,neutral,9,0
+TKT00414,phone,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 88027.,negative,16,1
+TKT00415,chat,Please provide the steps to activate notifications. My ticket number is 15061.,neutral,12,0
+TKT00416,chat,The app crashes whenever I try to use report download. My ticket number is 65767.,negative,15,1
+TKT00417,email,I am very unhappy because my order has not worked since last week.,negative,13,1
+TKT00418,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00419,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00420,chat,The mobile app keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,18,1
+TKT00421,email,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00422,chat,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00423,social,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00424,email,I want to cancel because the service quality is poor and unreliable. My ticket number is 50976. Please respond as soon as possible.,negative,23,1
+TKT00425,email,I am satisfied with the plan and would recommend it to others. My ticket number is 18724. I appreciate the quick response.,positive,22,0
+TKT00426,phone,Can you share the status of my order request? My ticket number is 68751.,neutral,14,0
+TKT00427,phone,I want to understand the warranty terms for this product. My ticket number is 79327.,neutral,15,0
+TKT00428,social,The internet speed is slow and customer care is not helping. My ticket number is 84852.,negative,16,1
+TKT00429,chat,The app crashes whenever I try to use report download.,negative,10,1
+TKT00430,app,I would like to know more about the available plans.,neutral,10,0
+TKT00431,app,Great service and clear communication from the support team. My ticket number is 32818.,positive,14,0
+TKT00432,phone,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00433,email,I need information about the payment process.,neutral,7,0
+TKT00434,phone,The product quality is bad and I regret purchasing it. Please respond as soon as possible.,negative,16,1
+TKT00435,social,The app experience is smooth and reliable.,positive,7,0
+TKT00436,social,The installation was completed on time and everything works perfectly. My ticket number is 61911. I appreciate the quick response.,positive,20,0
+TKT00437,email,Please provide the steps to activate analytics. My ticket number is 87010.,neutral,12,0
+TKT00438,chat,I would like to know more about the available plans. My ticket number is 12223.,neutral,15,0
+TKT00439,social,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00440,social,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 77449.,negative,16,1
+TKT00441,app,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00442,chat,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00443,social,The product quality is bad and I regret purchasing it. My ticket number is 80837. Please respond as soon as possible.,negative,21,1
+TKT00444,social,The app experience is smooth and reliable.,positive,7,0
+TKT00445,app,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT00446,chat,The delivery was smooth and the product quality is excellent. My ticket number is 38526.,positive,15,0
+TKT00447,app,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00448,social,Your support team resolved my issue quickly. Thank you. My ticket number is 12970.,positive,14,0
+TKT00449,phone,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00450,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00451,chat,Great service and clear communication from the support team.,positive,9,0
+TKT00452,chat,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00453,chat,Great service and clear communication from the support team. My ticket number is 51307.,positive,14,0
+TKT00454,email,The subscription is working well and I am happy with the service.,positive,12,0
+TKT00455,email,The app crashes whenever I try to use tracking. My ticket number is 70429. Please respond as soon as possible.,negative,20,1
+TKT00456,app,Great service and clear communication from the support team. I appreciate the quick response.,positive,14,0
+TKT00457,email,The app crashes whenever I try to use video call.,negative,10,1
+TKT00458,app,Can someone explain the difference between the plans?,neutral,8,0
+TKT00459,phone,I would like to know more about the available plans. My ticket number is 73877.,neutral,15,0
+TKT00460,social,The router keeps failing and support has not resolved my issue. My ticket number is 98977.,negative,16,0
+TKT00461,app,The app experience is smooth and reliable. My ticket number is 30762.,positive,12,0
+TKT00462,social,The refund process was fast and convenient.,positive,7,0
+TKT00463,phone,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 23741.,negative,16,0
+TKT00464,phone,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT00465,phone,The insurance policy is working well and I am happy with the service. I appreciate the quick response.,positive,18,0
+TKT00466,phone,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00467,social,I am checking if there is any scheduled maintenance today. My ticket number is 37710.,neutral,15,0
+TKT00468,email,Can you share the status of my dashboard request? My ticket number is 96412.,neutral,14,0
+TKT00469,phone,Please tell me how to update my account details.,neutral,9,0
+TKT00470,phone,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT00471,phone,The dashboard is working well and I am happy with the service.,positive,12,0
+TKT00472,email,The insurance policy is working well and I am happy with the service.,positive,13,0
+TKT00473,chat,I need information about the payment process.,neutral,7,0
+TKT00474,email,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT00475,app,I need help finding the invoice for my last order.,neutral,10,0
+TKT00476,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00477,phone,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00478,app,Please tell me how to update my account details. My ticket number is 17418.,neutral,14,0
+TKT00479,email,Can you confirm whether my ticket has been assigned? My ticket number is 41483.,neutral,14,0
+TKT00480,social,The internet speed is slow and customer care is not helping. My ticket number is 46313.,negative,16,0
+TKT00481,social,Great service and clear communication from the support team.,positive,9,0
+TKT00482,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00483,social,I am very unhappy because my account has not worked since last week. Please respond as soon as possible.,negative,19,1
+TKT00484,app,The delivery was late and the package arrived damaged.,negative,9,1
+TKT00485,phone,My refund is still pending and this experience is frustrating. My ticket number is 29850.,negative,15,1
+TKT00486,social,I like the new profile update and it is easy to use. My ticket number is 57237. I appreciate the quick response.,positive,22,0
+TKT00487,email,Can you share the status of my order request? Please respond as soon as possible.,neutral,15,1
+TKT00488,app,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT00489,email,I am very unhappy because my service plan has not worked since last week. My ticket number is 36764.,negative,19,1
+TKT00490,phone,The app experience is smooth and reliable. My ticket number is 25722. I appreciate the quick response.,positive,17,0
+TKT00491,email,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 31913.,negative,16,0
+TKT00492,chat,Can you share the status of my service plan request? My ticket number is 17050.,neutral,15,0
+TKT00493,app,The response from the team was helpful and professional. I appreciate the quick response.,positive,14,0
+TKT00494,email,The app crashes whenever I try to use video call. My ticket number is 20784. Please respond as soon as possible.,negative,21,1
+TKT00495,chat,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT00496,email,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00497,phone,I need help finding the invoice for my last order. My ticket number is 55212.,neutral,15,0
+TKT00498,email,I want to understand the warranty terms for this product. My ticket number is 23933.,neutral,15,0
+TKT00499,phone,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00500,social,Great service and clear communication from the support team.,positive,9,0
+TKT00501,social,Please tell me how to update my account details.,neutral,9,0
+TKT00502,social,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00503,app,The installation was completed on time and everything works perfectly. My ticket number is 84351. I appreciate the quick response.,positive,20,0
+TKT00504,chat,I am very unhappy because my dashboard has not worked since this morning.,negative,13,1
+TKT00505,email,I like the new analytics and it is easy to use.,positive,11,0
+TKT00506,email,I would like to know more about the available plans. My ticket number is 34574. Please respond as soon as possible.,neutral,21,1
+TKT00507,chat,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT00508,phone,The subscription is working well and I am happy with the service.,positive,12,0
+TKT00509,social,The refund process was fast and convenient. My ticket number is 10632. I appreciate the quick response.,positive,17,0
+TKT00510,email,I need help finding the invoice for my last order. My ticket number is 10347. Please respond as soon as possible.,neutral,21,1
+TKT00511,social,Please tell me how to update my account details. My ticket number is 69866.,neutral,14,0
+TKT00512,email,I need help finding the invoice for my last order. My ticket number is 54150.,neutral,15,0
+TKT00513,email,Great service and clear communication from the support team. I appreciate the quick response.,positive,14,0
+TKT00514,chat,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00515,phone,Your support team resolved my issue quickly. Thank you. My ticket number is 89184.,positive,14,0
+TKT00516,phone,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00517,app,The router is working well and I am happy with the service.,positive,12,0
+TKT00518,social,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00519,social,The response from the team was helpful and professional. My ticket number is 17034. I appreciate the quick response.,positive,19,0
+TKT00520,social,I am very unhappy because my mobile app has not worked since after the recent update. My ticket number is 28058.,negative,21,0
+TKT00521,email,The response from the team was helpful and professional. My ticket number is 79583.,positive,14,0
+TKT00522,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00523,social,Please tell me how to update my account details. My ticket number is 48621. Please respond as soon as possible.,neutral,20,1
+TKT00524,chat,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00525,email,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00526,email,The service plan is working well and I am happy with the service. My ticket number is 65898.,positive,18,0
+TKT00527,chat,My refund is still pending and this experience is frustrating. My ticket number is 21761.,negative,15,0
+TKT00528,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 13848.,negative,17,1
+TKT00529,phone,The service plan is working well and I am happy with the service.,positive,13,0
+TKT00530,phone,I am very unhappy because my account has not worked since last week.,negative,13,1
+TKT00531,chat,Can you share the status of my router request? My ticket number is 57965.,neutral,14,0
+TKT00532,email,The response from the team was helpful and professional. My ticket number is 83181.,positive,14,0
+TKT00533,chat,Please provide the steps to activate tracking.,neutral,7,0
+TKT00534,app,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00535,social,The refund process was fast and convenient.,positive,7,0
+TKT00536,chat,The refund process was fast and convenient. My ticket number is 71221.,positive,12,0
+TKT00537,social,I need information about the payment process.,neutral,7,0
+TKT00538,phone,The product quality is bad and I regret purchasing it. My ticket number is 51052.,negative,15,0
+TKT00539,phone,Billing is incorrect and I was charged twice this month. My ticket number is 54076.,negative,15,1
+TKT00540,app,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00541,chat,Can you confirm whether my ticket has been assigned? My ticket number is 90276.,neutral,14,0
+TKT00542,phone,I would like to know more about the available plans. My ticket number is 97646.,neutral,15,0
+TKT00543,social,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00544,email,Billing is incorrect and I was charged twice this month. Please respond as soon as possible.,negative,16,1
+TKT00545,email,The delivery was smooth and the product quality is excellent. My ticket number is 96050.,positive,15,0
+TKT00546,social,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00547,social,Great service and clear communication from the support team. I appreciate the quick response.,positive,14,0
+TKT00548,social,Can you share the status of my insurance policy request? Please respond as soon as possible.,neutral,16,1
+TKT00549,email,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00550,app,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT00551,chat,Great service and clear communication from the support team.,positive,9,0
+TKT00552,app,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00553,phone,I am satisfied with the plan and would recommend it to others. My ticket number is 67350.,positive,17,0
+TKT00554,app,I would like to know more about the available plans.,neutral,10,0
+TKT00555,chat,Can you share the status of my service plan request? Please respond as soon as possible.,neutral,16,1
+TKT00556,social,Please provide the steps to activate profile update.,neutral,8,0
+TKT00557,app,Please tell me how to update my account details.,neutral,9,0
+TKT00558,app,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT00559,social,I would like to know more about the available plans.,neutral,10,0
+TKT00560,phone,I want to understand the warranty terms for this product. My ticket number is 43671.,neutral,15,0
+TKT00561,app,I want to cancel because the service quality is poor and unreliable. My ticket number is 25930.,negative,17,1
+TKT00562,app,Please provide the steps to activate report download.,neutral,8,0
+TKT00563,phone,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00564,phone,Please tell me how to update my account details.,neutral,9,0
+TKT00565,phone,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00566,social,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00567,chat,I need information about the payment process.,neutral,7,0
+TKT00568,email,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT00569,app,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT00570,social,Great service and clear communication from the support team.,positive,9,0
+TKT00571,phone,I like the new payment and it is easy to use. My ticket number is 12238.,positive,16,0
+TKT00572,app,The refund process was fast and convenient.,positive,7,0
+TKT00573,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00574,social,The service plan keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,18,1
+TKT00575,email,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00576,phone,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00577,email,The refund process was fast and convenient.,positive,7,0
+TKT00578,phone,The internet speed is slow and customer care is not helping. My ticket number is 75541.,negative,16,1
+TKT00579,chat,The app experience is smooth and reliable. My ticket number is 73789.,positive,12,0
+TKT00580,phone,Please tell me how to update my account details.,neutral,9,0
+TKT00581,app,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00582,email,Please provide the steps to activate report download.,neutral,8,0
+TKT00583,chat,Please provide the steps to activate tracking.,neutral,7,0
+TKT00584,app,The insurance policy keeps failing and support has not resolved my issue.,negative,12,1
+TKT00585,app,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00586,app,Please provide the steps to activate analytics.,neutral,7,0
+TKT00587,phone,I need information about the payment process.,neutral,7,0
+TKT00588,phone,I am very unhappy because my mobile app has not worked since last week.,negative,14,0
+TKT00589,phone,I am checking if there is any scheduled maintenance today. My ticket number is 99366.,neutral,15,0
+TKT00590,chat,Can you share the status of my service plan request?,neutral,10,0
+TKT00591,app,I would like to know more about the available plans. My ticket number is 33714.,neutral,15,0
+TKT00592,chat,The delivery was smooth and the product quality is excellent. My ticket number is 33077. I appreciate the quick response.,positive,20,0
+TKT00593,social,I would like to know more about the available plans.,neutral,10,0
+TKT00594,social,The internet speed is slow and customer care is not helping. My ticket number is 48604. Please respond as soon as possible.,negative,22,1
+TKT00595,chat,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT00596,email,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00597,email,The refund process was fast and convenient. My ticket number is 62103.,positive,12,0
+TKT00598,chat,My refund is still pending and this experience is frustrating.,negative,10,1
+TKT00599,phone,Your support team resolved my issue quickly. Thank you. I appreciate the quick response.,positive,14,0
+TKT00600,phone,Can you share the status of my account request? My ticket number is 70140. Please respond as soon as possible.,neutral,20,1
+TKT00601,app,I need information about the payment process.,neutral,7,0
+TKT00602,phone,Great service and clear communication from the support team. My ticket number is 62127.,positive,14,0
+TKT00603,social,I want to cancel because the service quality is poor and unreliable. Please respond as soon as possible.,negative,18,1
+TKT00604,social,The internet speed is slow and customer care is not helping. Please respond as soon as possible.,negative,17,1
+TKT00605,app,Billing is incorrect and I was charged twice this month. My ticket number is 83821.,negative,15,1
+TKT00606,phone,The app experience is smooth and reliable. I appreciate the quick response.,positive,12,0
+TKT00607,email,The delivery was late and the package arrived damaged.,negative,9,1
+TKT00608,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT00609,chat,The mobile app is working well and I am happy with the service. My ticket number is 23537.,positive,18,0
+TKT00610,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00611,chat,Can you confirm whether my ticket has been assigned? My ticket number is 30562.,neutral,14,0
+TKT00612,phone,I want to cancel because the service quality is poor and unreliable. Please respond as soon as possible.,negative,18,1
+TKT00613,phone,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00614,chat,I am very unhappy because my insurance policy has not worked since after the recent update.,negative,16,0
+TKT00615,chat,I need information about the payment process.,neutral,7,0
+TKT00616,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00617,phone,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT00618,app,The refund process was fast and convenient. My ticket number is 41814.,positive,12,0
+TKT00619,email,The internet speed is slow and customer care is not helping. Please respond as soon as possible.,negative,17,1
+TKT00620,email,I need help finding the invoice for my last order. My ticket number is 68738.,neutral,15,0
+TKT00621,phone,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT00622,social,Billing is incorrect and I was charged twice this month. Please respond as soon as possible.,negative,16,1
+TKT00623,email,Please provide the steps to activate profile update. Please respond as soon as possible.,neutral,14,1
+TKT00624,social,The refund process was fast and convenient. My ticket number is 84852.,positive,12,0
+TKT00625,chat,I am satisfied with the plan and would recommend it to others. My ticket number is 23879. I appreciate the quick response.,positive,22,0
+TKT00626,email,I am satisfied with the plan and would recommend it to others. My ticket number is 28294. I appreciate the quick response.,positive,22,0
+TKT00627,app,I am very unhappy because my service plan has not worked since after the recent update. Please respond as soon as possible.,negative,22,1
+TKT00628,chat,Please tell me how to update my account details. My ticket number is 22245.,neutral,14,0
+TKT00629,social,The response from the team was helpful and professional. My ticket number is 10973.,positive,14,0
+TKT00630,chat,Can you share the status of my dashboard request? Please respond as soon as possible.,neutral,15,1
+TKT00631,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00632,phone,The internet speed is slow and customer care is not helping. My ticket number is 78126.,negative,16,0
+TKT00633,app,Great service and clear communication from the support team.,positive,9,0
+TKT00634,phone,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00635,chat,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00636,phone,The app crashes whenever I try to use payment. My ticket number is 96990.,negative,14,1
+TKT00637,email,Can someone explain the difference between the plans?,neutral,8,0
+TKT00638,email,I want to cancel because the service quality is poor and unreliable. My ticket number is 84675.,negative,17,0
+TKT00639,phone,Please provide the steps to activate tracking. My ticket number is 63727.,neutral,12,0
+TKT00640,phone,I am satisfied with the plan and would recommend it to others. My ticket number is 18749.,positive,17,0
+TKT00641,chat,Can you share the status of my insurance policy request? Please respond as soon as possible.,neutral,16,1
+TKT00642,social,The delivery was late and the package arrived damaged. My ticket number is 70775. Please respond as soon as possible.,negative,20,1
+TKT00643,app,I am very unhappy because my subscription has not worked since yesterday. Please respond as soon as possible.,negative,18,1
+TKT00644,email,I want to understand the warranty terms for this product. My ticket number is 99795.,neutral,15,0
+TKT00645,phone,Please provide the steps to activate profile update. My ticket number is 78907.,neutral,13,0
+TKT00646,app,The product quality is bad and I regret purchasing it. My ticket number is 45569.,negative,15,1
+TKT00647,social,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT00648,phone,The dashboard keeps failing and support has not resolved my issue.,negative,11,1
+TKT00649,app,The response from the team was helpful and professional. My ticket number is 71586.,positive,14,0
+TKT00650,phone,I am checking if there is any scheduled maintenance today. Please respond as soon as possible.,neutral,16,1
+TKT00651,phone,Please tell me how to update my account details.,neutral,9,0
+TKT00652,chat,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00653,phone,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT00654,social,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00655,phone,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00656,social,Great service and clear communication from the support team. I appreciate the quick response.,positive,14,0
+TKT00657,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00658,app,I am very unhappy because my subscription has not worked since last week.,negative,13,0
+TKT00659,social,The response from the team was helpful and professional.,positive,9,0
+TKT00660,phone,Can you share the status of my insurance policy request? My ticket number is 98075.,neutral,15,0
+TKT00661,social,Please provide the steps to activate analytics.,neutral,7,0
+TKT00662,app,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT00663,app,I am satisfied with the plan and would recommend it to others. I appreciate the quick response.,positive,17,0
+TKT00664,phone,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00665,chat,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00666,social,I would like to know more about the available plans. My ticket number is 69562.,neutral,15,0
+TKT00667,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00668,chat,I like the new report download and it is easy to use.,positive,12,0
+TKT00669,email,Billing is incorrect and I was charged twice this month. My ticket number is 63025.,negative,15,0
+TKT00670,social,Please tell me how to update my account details.,neutral,9,0
+TKT00671,chat,I would like to know more about the available plans.,neutral,10,0
+TKT00672,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00673,phone,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00674,social,The response from the team was helpful and professional. I appreciate the quick response.,positive,14,0
+TKT00675,email,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT00676,social,The refund process was fast and convenient. My ticket number is 86050.,positive,12,0
+TKT00677,phone,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00678,email,I like the new report download and it is easy to use.,positive,12,0
+TKT00679,chat,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT00680,social,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00681,email,I would like to know more about the available plans.,neutral,10,0
+TKT00682,chat,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00683,chat,I have raised multiple tickets but nobody has fixed the problem.,negative,11,0
+TKT00684,email,The delivery was smooth and the product quality is excellent. My ticket number is 71797.,positive,15,0
+TKT00685,social,Please provide the steps to activate video call.,neutral,8,0
+TKT00686,chat,The router is working well and I am happy with the service.,positive,12,0
+TKT00687,email,Great service and clear communication from the support team. My ticket number is 68820.,positive,14,0
+TKT00688,social,I need help finding the invoice for my last order. My ticket number is 16281. Please respond as soon as possible.,neutral,21,1
+TKT00689,social,Can you share the status of my router request?,neutral,9,0
+TKT00690,email,Great service and clear communication from the support team.,positive,9,0
+TKT00691,phone,Can you share the status of my service plan request?,neutral,10,0
+TKT00692,social,The delivery was smooth and the product quality is excellent. My ticket number is 80757. I appreciate the quick response.,positive,20,0
+TKT00693,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT00694,chat,I am very unhappy because my mobile app has not worked since last week.,negative,14,0
+TKT00695,app,The refund process was fast and convenient. My ticket number is 52737.,positive,12,0
+TKT00696,email,Please tell me how to update my account details.,neutral,9,0
+TKT00697,social,I am very unhappy because my account has not worked since three days ago. My ticket number is 59012. Please respond as soon as possible.,negative,25,1
+TKT00698,social,The mobile app keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,18,1
+TKT00699,app,The installation was completed on time and everything works perfectly. My ticket number is 59377.,positive,15,0
+TKT00700,phone,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 50414. Please respond as soon as possible.,negative,22,1
+TKT00701,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00702,social,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT00703,chat,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00704,social,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00705,social,Great service and clear communication from the support team. My ticket number is 58867.,positive,14,0
+TKT00706,chat,The delivery was smooth and the product quality is excellent. My ticket number is 78738.,positive,15,0
+TKT00707,app,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00708,social,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00709,app,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00710,app,The refund process was fast and convenient.,positive,7,0
+TKT00711,social,The insurance policy keeps failing and support has not resolved my issue. My ticket number is 78584.,negative,17,0
+TKT00712,social,Your support team resolved my issue quickly. Thank you. I appreciate the quick response.,positive,14,0
+TKT00713,app,I want to cancel because the service quality is poor and unreliable. My ticket number is 18716.,negative,17,1
+TKT00714,social,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00715,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00716,chat,Can you share the status of my dashboard request? My ticket number is 97441.,neutral,14,0
+TKT00717,email,I am very unhappy because my order has not worked since yesterday.,negative,12,0
+TKT00718,phone,I am checking if there is any scheduled maintenance today. Please respond as soon as possible.,neutral,16,1
+TKT00719,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT00720,phone,The order is working well and I am happy with the service. My ticket number is 10565. I appreciate the quick response.,positive,22,0
+TKT00721,app,I am very unhappy because my service plan has not worked since this morning. My ticket number is 78969.,negative,19,1
+TKT00722,chat,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00723,email,The insurance policy keeps failing and support has not resolved my issue. My ticket number is 63045. Please respond as soon as possible.,negative,23,1
+TKT00724,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00725,social,The mobile app keeps failing and support has not resolved my issue.,negative,12,0
+TKT00726,chat,I would like to know more about the available plans. My ticket number is 15284. Please respond as soon as possible.,neutral,21,1
+TKT00727,phone,The response from the team was helpful and professional. I appreciate the quick response.,positive,14,0
+TKT00728,email,Can you share the status of my service plan request?,neutral,10,0
+TKT00729,app,The service plan is working well and I am happy with the service. My ticket number is 89731. I appreciate the quick response.,positive,23,0
+TKT00730,chat,Can someone explain the difference between the plans?,neutral,8,0
+TKT00731,phone,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00732,email,The order keeps failing and support has not resolved my issue.,negative,11,0
+TKT00733,email,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00734,email,The service plan is working well and I am happy with the service. My ticket number is 11482.,positive,18,0
+TKT00735,chat,I am satisfied with the plan and would recommend it to others. My ticket number is 12408.,positive,17,0
+TKT00736,chat,Can someone explain the difference between the plans? Please respond as soon as possible.,neutral,14,1
+TKT00737,social,Please provide the steps to activate login.,neutral,7,0
+TKT00738,phone,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT00739,chat,The app crashes whenever I try to use profile update.,negative,10,1
+TKT00740,app,I am satisfied with the plan and would recommend it to others. My ticket number is 34887.,positive,17,0
+TKT00741,email,I am very unhappy because my subscription has not worked since this morning. My ticket number is 89314.,negative,18,0
+TKT00742,phone,Can you share the status of my router request?,neutral,9,0
+TKT00743,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00744,email,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 62342.,negative,16,0
+TKT00745,chat,Please provide the steps to activate analytics.,neutral,7,0
+TKT00746,phone,The app crashes whenever I try to use report download.,negative,10,1
+TKT00747,app,I am very unhappy because my mobile app has not worked since yesterday. Please respond as soon as possible.,negative,19,1
+TKT00748,app,The installation was completed on time and everything works perfectly. My ticket number is 73690.,positive,15,0
+TKT00749,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00750,app,I am very unhappy because my mobile app has not worked since yesterday.,negative,13,1
+TKT00751,email,The app experience is smooth and reliable. I appreciate the quick response.,positive,12,0
+TKT00752,email,Can you share the status of my dashboard request? Please respond as soon as possible.,neutral,15,1
+TKT00753,email,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00754,chat,The installation was completed on time and everything works perfectly. My ticket number is 41097.,positive,15,0
+TKT00755,app,Can you share the status of my account request?,neutral,9,0
+TKT00756,chat,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00757,app,The subscription is working well and I am happy with the service. My ticket number is 70747.,positive,17,0
+TKT00758,phone,I am satisfied with the plan and would recommend it to others. I appreciate the quick response.,positive,17,0
+TKT00759,email,The installation was completed on time and everything works perfectly. My ticket number is 21870. I appreciate the quick response.,positive,20,0
+TKT00760,phone,I would like to know more about the available plans.,neutral,10,0
+TKT00761,chat,The refund process was fast and convenient.,positive,7,0
+TKT00762,app,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00763,chat,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00764,phone,The refund process was fast and convenient.,positive,7,0
+TKT00765,chat,Can you share the status of my router request? Please respond as soon as possible.,neutral,15,1
+TKT00766,app,I would like to know more about the available plans. My ticket number is 17073.,neutral,15,0
+TKT00767,phone,I want to understand the warranty terms for this product. My ticket number is 37418.,neutral,15,0
+TKT00768,email,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00769,email,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00770,chat,Great service and clear communication from the support team.,positive,9,0
+TKT00771,app,Please provide the steps to activate video call.,neutral,8,0
+TKT00772,chat,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00773,email,The app experience is smooth and reliable. My ticket number is 10783.,positive,12,0
+TKT00774,chat,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT00775,email,I need help finding the invoice for my last order. My ticket number is 63067.,neutral,15,0
+TKT00776,app,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00777,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT00778,email,The delivery was smooth and the product quality is excellent. My ticket number is 41234.,positive,15,0
+TKT00779,chat,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00780,social,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT00781,phone,I need help finding the invoice for my last order.,neutral,10,0
+TKT00782,app,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00783,email,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00784,app,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00785,email,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00786,email,Can someone explain the difference between the plans?,neutral,8,0
+TKT00787,email,The app experience is smooth and reliable.,positive,7,0
+TKT00788,email,The app crashes whenever I try to use analytics. Please respond as soon as possible.,negative,15,1
+TKT00789,app,Can you confirm whether my ticket has been assigned? My ticket number is 98525.,neutral,14,0
+TKT00790,email,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00791,social,The refund process was fast and convenient. My ticket number is 63062. I appreciate the quick response.,positive,17,0
+TKT00792,app,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00793,social,The product quality is bad and I regret purchasing it. Please respond as soon as possible.,negative,16,1
+TKT00794,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT00795,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT00796,app,Billing is incorrect and I was charged twice this month. My ticket number is 39154.,negative,15,1
+TKT00797,chat,The mobile app keeps failing and support has not resolved my issue.,negative,12,0
+TKT00798,chat,I am very unhappy because my router has not worked since this morning.,negative,13,0
+TKT00799,app,The delivery was late and the package arrived damaged. My ticket number is 93489. Please respond as soon as possible.,negative,20,1
+TKT00800,chat,Great service and clear communication from the support team.,positive,9,0
+TKT00801,app,My refund is still pending and this experience is frustrating.,negative,10,1
+TKT00802,phone,Please provide the steps to activate video call.,neutral,8,0
+TKT00803,app,I need help finding the invoice for my last order.,neutral,10,0
+TKT00804,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT00805,social,The app experience is smooth and reliable. I appreciate the quick response.,positive,12,0
+TKT00806,app,I want to cancel because the service quality is poor and unreliable. Please respond as soon as possible.,negative,18,1
+TKT00807,app,The app crashes whenever I try to use profile update.,negative,10,0
+TKT00808,app,The app crashes whenever I try to use notifications. Please respond as soon as possible.,negative,15,1
+TKT00809,app,Can you share the status of my subscription request?,neutral,9,0
+TKT00810,phone,The delivery was smooth and the product quality is excellent. My ticket number is 60150.,positive,15,0
+TKT00811,phone,I want to cancel because the service quality is poor and unreliable. My ticket number is 77147.,negative,17,0
+TKT00812,chat,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT00813,email,The app experience is smooth and reliable. My ticket number is 42132.,positive,12,0
+TKT00814,chat,The response from the team was helpful and professional.,positive,9,0
+TKT00815,email,The app crashes whenever I try to use video call.,negative,10,1
+TKT00816,social,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00817,phone,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT00818,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00819,phone,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00820,social,I need information about the payment process.,neutral,7,0
+TKT00821,email,Billing is incorrect and I was charged twice this month. My ticket number is 29285.,negative,15,0
+TKT00822,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00823,app,Can you confirm whether my ticket has been assigned? My ticket number is 67674.,neutral,14,0
+TKT00824,email,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00825,chat,Please provide the steps to activate tracking. My ticket number is 78417.,neutral,12,0
+TKT00826,chat,I am satisfied with the plan and would recommend it to others. I appreciate the quick response.,positive,17,0
+TKT00827,app,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00828,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00829,email,Please tell me how to update my account details. My ticket number is 79419.,neutral,14,0
+TKT00830,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT00831,chat,Please provide the steps to activate profile update. My ticket number is 70315.,neutral,13,0
+TKT00832,social,I would like to know more about the available plans.,neutral,10,0
+TKT00833,social,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00834,chat,The internet speed is slow and customer care is not helping. My ticket number is 68349.,negative,16,1
+TKT00835,social,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT00836,app,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00837,chat,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00838,chat,The app experience is smooth and reliable. My ticket number is 62317.,positive,12,0
+TKT00839,social,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00840,email,Can someone explain the difference between the plans?,neutral,8,0
+TKT00841,social,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00842,chat,The subscription keeps failing and support has not resolved my issue. My ticket number is 73051.,negative,16,0
+TKT00843,app,I need help finding the invoice for my last order.,neutral,10,0
+TKT00844,app,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT00845,app,My refund is still pending and this experience is frustrating.,negative,10,1
+TKT00846,email,I would like to know more about the available plans.,neutral,10,0
+TKT00847,social,I want to understand the warranty terms for this product. My ticket number is 22270.,neutral,15,0
+TKT00848,social,I need information about the payment process. My ticket number is 58187.,neutral,12,0
+TKT00849,email,The account keeps failing and support has not resolved my issue.,negative,11,0
+TKT00850,email,I like the new login and it is easy to use.,positive,11,0
+TKT00851,app,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00852,phone,Please tell me how to update my account details.,neutral,9,0
+TKT00853,app,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT00854,app,The router is working well and I am happy with the service.,positive,12,0
+TKT00855,chat,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00856,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00857,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00858,phone,I need information about the payment process. My ticket number is 58869. Please respond as soon as possible.,neutral,18,1
+TKT00859,phone,Can you confirm whether my ticket has been assigned? My ticket number is 71153.,neutral,14,0
+TKT00860,phone,Billing is incorrect and I was charged twice this month. My ticket number is 26034.,negative,15,0
+TKT00861,phone,I would like to know more about the available plans. My ticket number is 18341.,neutral,15,0
+TKT00862,phone,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00863,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00864,chat,The response from the team was helpful and professional. My ticket number is 26837.,positive,14,0
+TKT00865,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT00866,app,The dashboard is working well and I am happy with the service. I appreciate the quick response.,positive,17,0
+TKT00867,chat,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT00868,chat,The refund process was fast and convenient.,positive,7,0
+TKT00869,email,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00870,social,I like the new profile update and it is easy to use. My ticket number is 65178.,positive,17,0
+TKT00871,phone,Your support team resolved my issue quickly. Thank you. My ticket number is 29624.,positive,14,0
+TKT00872,phone,Your support team resolved my issue quickly. Thank you. I appreciate the quick response.,positive,14,0
+TKT00873,app,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT00874,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00875,chat,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT00876,social,I am checking if there is any scheduled maintenance today. My ticket number is 15895. Please respond as soon as possible.,neutral,21,1
+TKT00877,phone,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00878,email,The response from the team was helpful and professional. My ticket number is 80247.,positive,14,0
+TKT00879,email,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00880,social,I am checking if there is any scheduled maintenance today. Please respond as soon as possible.,neutral,16,1
+TKT00881,social,Can someone explain the difference between the plans? My ticket number is 11058.,neutral,13,0
+TKT00882,social,The delivery was late and the package arrived damaged.,negative,9,1
+TKT00883,chat,Great service and clear communication from the support team.,positive,9,0
+TKT00884,social,The delivery was late and the package arrived damaged.,negative,9,1
+TKT00885,social,I would like to know more about the available plans. My ticket number is 69782. Please respond as soon as possible.,neutral,21,1
+TKT00886,app,Can someone explain the difference between the plans? My ticket number is 69525.,neutral,13,0
+TKT00887,email,Can you share the status of my mobile app request?,neutral,10,0
+TKT00888,chat,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT00889,phone,My refund is still pending and this experience is frustrating. Please respond as soon as possible.,negative,16,1
+TKT00890,app,The delivery was smooth and the product quality is excellent. My ticket number is 30106. I appreciate the quick response.,positive,20,0
+TKT00891,email,I would like to know more about the available plans. My ticket number is 87178.,neutral,15,0
+TKT00892,chat,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00893,phone,I am very unhappy because my order has not worked since after the recent update. My ticket number is 97141. Please respond as soon as possible.,negative,26,1
+TKT00894,phone,Can you share the status of my router request? My ticket number is 37228.,neutral,14,0
+TKT00895,email,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00896,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00897,app,The delivery was late and the package arrived damaged.,negative,9,1
+TKT00898,phone,Can you share the status of my mobile app request?,neutral,10,0
+TKT00899,chat,I am very unhappy because my order has not worked since this morning.,negative,13,0
+TKT00900,email,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT00901,app,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT00902,social,The refund process was fast and convenient.,positive,7,0
+TKT00903,chat,The refund process was fast and convenient.,positive,7,0
+TKT00904,app,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00905,app,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00906,phone,The product quality is bad and I regret purchasing it. My ticket number is 60889.,negative,15,0
+TKT00907,chat,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT00908,social,Great service and clear communication from the support team. My ticket number is 96422.,positive,14,0
+TKT00909,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00910,social,I need help finding the invoice for my last order. My ticket number is 39439.,neutral,15,0
+TKT00911,chat,Billing is incorrect and I was charged twice this month. My ticket number is 13030.,negative,15,1
+TKT00912,app,I am checking if there is any scheduled maintenance today. My ticket number is 90418.,neutral,15,0
+TKT00913,email,The mobile app is working well and I am happy with the service. I appreciate the quick response.,positive,18,0
+TKT00914,phone,The refund process was fast and convenient.,positive,7,0
+TKT00915,chat,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT00916,email,I am checking if there is any scheduled maintenance today. My ticket number is 85059.,neutral,15,0
+TKT00917,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00918,email,I am checking if there is any scheduled maintenance today. My ticket number is 53075.,neutral,15,0
+TKT00919,chat,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT00920,chat,Can you confirm whether my ticket has been assigned? My ticket number is 45674.,neutral,14,0
+TKT00921,email,Please provide the steps to activate video call. Please respond as soon as possible.,neutral,14,1
+TKT00922,app,Great service and clear communication from the support team.,positive,9,0
+TKT00923,phone,Can you share the status of my router request? My ticket number is 62488. Please respond as soon as possible.,neutral,20,1
+TKT00924,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT00925,social,The mobile app is working well and I am happy with the service.,positive,13,0
+TKT00926,phone,Your support team resolved my issue quickly. Thank you. My ticket number is 36289.,positive,14,0
+TKT00927,social,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 19789.,negative,16,0
+TKT00928,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00929,phone,The internet speed is slow and customer care is not helping. My ticket number is 27725.,negative,16,1
+TKT00930,social,The mobile app is working well and I am happy with the service. I appreciate the quick response.,positive,18,0
+TKT00931,phone,I would like to know more about the available plans. My ticket number is 79942.,neutral,15,0
+TKT00932,phone,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT00933,app,I like the new video call and it is easy to use. I appreciate the quick response.,positive,17,0
+TKT00934,chat,The dashboard keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,17,1
+TKT00935,email,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 53976. Please respond as soon as possible.,negative,22,1
+TKT00936,phone,Please provide the steps to activate profile update.,neutral,8,0
+TKT00937,phone,The app crashes whenever I try to use report download. Please respond as soon as possible.,negative,16,1
+TKT00938,social,The service plan keeps failing and support has not resolved my issue.,negative,12,1
+TKT00939,phone,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00940,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00941,phone,The delivery was smooth and the product quality is excellent. My ticket number is 62980. I appreciate the quick response.,positive,20,0
+TKT00942,email,Can you share the status of my account request?,neutral,9,0
+TKT00943,app,I have raised multiple tickets but nobody has fixed the problem.,negative,11,0
+TKT00944,app,The response from the team was helpful and professional. I appreciate the quick response.,positive,14,0
+TKT00945,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT00946,chat,Please tell me how to update my account details.,neutral,9,0
+TKT00947,app,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00948,email,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT00949,email,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT00950,chat,I like the new login and it is easy to use. My ticket number is 68064.,positive,16,0
+TKT00951,phone,Great service and clear communication from the support team. My ticket number is 93827.,positive,14,0
+TKT00952,email,Great service and clear communication from the support team. My ticket number is 26728.,positive,14,0
+TKT00953,email,The account is working well and I am happy with the service. My ticket number is 53178.,positive,17,0
+TKT00954,app,Please tell me how to update my account details.,neutral,9,0
+TKT00955,chat,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00956,chat,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00957,app,I need help finding the invoice for my last order. My ticket number is 96593.,neutral,15,0
+TKT00958,app,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00959,email,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00960,social,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT00961,app,The refund process was fast and convenient.,positive,7,0
+TKT00962,app,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT00963,social,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT00964,chat,The app crashes whenever I try to use login. My ticket number is 72771.,negative,14,0
+TKT00965,chat,Please provide the steps to activate analytics.,neutral,7,0
+TKT00966,phone,I am very unhappy because my account has not worked since last week.,negative,13,1
+TKT00967,phone,Can you share the status of my account request?,neutral,9,0
+TKT00968,social,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT00969,phone,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT00970,social,The internet speed is slow and customer care is not helping. My ticket number is 28926.,negative,16,1
+TKT00971,app,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT00972,social,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT00973,chat,I am checking if there is any scheduled maintenance today. My ticket number is 30574.,neutral,15,0
+TKT00974,email,The dashboard keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,17,1
+TKT00975,email,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00976,social,Please tell me how to update my account details. My ticket number is 40228.,neutral,14,0
+TKT00977,social,My refund is still pending and this experience is frustrating. My ticket number is 64786. Please respond as soon as possible.,negative,21,1
+TKT00978,email,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT00979,app,Can you share the status of my subscription request?,neutral,9,0
+TKT00980,email,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT00981,social,I want to understand the warranty terms for this product.,neutral,10,0
+TKT00982,chat,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT00983,phone,The delivery was late and the package arrived damaged.,negative,9,0
+TKT00984,phone,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT00985,app,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT00986,app,The refund process was fast and convenient. My ticket number is 71725.,positive,12,0
+TKT00987,email,I am very unhappy because my mobile app has not worked since three days ago. Please respond as soon as possible.,negative,21,1
+TKT00988,app,The installation was completed on time and everything works perfectly. My ticket number is 98496. I appreciate the quick response.,positive,20,0
+TKT00989,chat,I am checking if there is any scheduled maintenance today. Please respond as soon as possible.,neutral,16,1
+TKT00990,chat,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT00991,phone,Can someone explain the difference between the plans? My ticket number is 75271. Please respond as soon as possible.,neutral,19,1
+TKT00992,phone,The installation was completed on time and everything works perfectly. My ticket number is 42091.,positive,15,0
+TKT00993,social,I like the new video call and it is easy to use. My ticket number is 44033.,positive,17,0
+TKT00994,social,Can someone explain the difference between the plans? My ticket number is 72750.,neutral,13,0
+TKT00995,phone,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT00996,email,Great service and clear communication from the support team. My ticket number is 46017.,positive,14,0
+TKT00997,chat,I am satisfied with the plan and would recommend it to others. My ticket number is 66502.,positive,17,0
+TKT00998,phone,I am satisfied with the plan and would recommend it to others. My ticket number is 46654.,positive,17,0
+TKT00999,phone,The delivery was late and the package arrived damaged. My ticket number is 60581.,negative,14,0
+TKT01000,phone,Can someone explain the difference between the plans? My ticket number is 85727.,neutral,13,0
+TKT01001,social,The account is working well and I am happy with the service. My ticket number is 64168.,positive,17,0
+TKT01002,app,Please provide the steps to activate payment. Please respond as soon as possible.,neutral,13,1
+TKT01003,phone,The app experience is smooth and reliable.,positive,7,0
+TKT01004,chat,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01005,chat,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01006,email,The delivery was late and the package arrived damaged.,negative,9,0
+TKT01007,email,The app crashes whenever I try to use report download.,negative,10,1
+TKT01008,chat,I need information about the payment process. My ticket number is 82810.,neutral,12,0
+TKT01009,phone,I like the new tracking and it is easy to use.,positive,11,0
+TKT01010,chat,Billing is incorrect and I was charged twice this month. My ticket number is 35838.,negative,15,1
+TKT01011,chat,Great service and clear communication from the support team. My ticket number is 28129.,positive,14,0
+TKT01012,social,I am very unhappy because my account has not worked since last week.,negative,13,0
+TKT01013,social,The delivery was late and the package arrived damaged.,negative,9,0
+TKT01014,phone,I am checking if there is any scheduled maintenance today. My ticket number is 53983.,neutral,15,0
+TKT01015,app,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01016,social,I am very unhappy because my router has not worked since last week. My ticket number is 58443.,negative,18,1
+TKT01017,email,I am satisfied with the plan and would recommend it to others. My ticket number is 53489.,positive,17,0
+TKT01018,social,Can someone explain the difference between the plans?,neutral,8,0
+TKT01019,email,Can you share the status of my account request? My ticket number is 18052.,neutral,14,0
+TKT01020,email,Billing is incorrect and I was charged twice this month. Please respond as soon as possible.,negative,16,1
+TKT01021,email,The delivery was late and the package arrived damaged. My ticket number is 76281. Please respond as soon as possible.,negative,20,1
+TKT01022,app,Can you share the status of my router request?,neutral,9,0
+TKT01023,app,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT01024,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT01025,app,Please provide the steps to activate profile update. My ticket number is 84879.,neutral,13,0
+TKT01026,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT01027,email,The order is working well and I am happy with the service. My ticket number is 56732.,positive,17,0
+TKT01028,chat,Please provide the steps to activate report download.,neutral,8,0
+TKT01029,email,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01030,phone,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01031,email,The refund process was fast and convenient.,positive,7,0
+TKT01032,app,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT01033,email,Can someone explain the difference between the plans? My ticket number is 58624.,neutral,13,0
+TKT01034,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 41267. Please respond as soon as possible.,negative,23,1
+TKT01035,app,I need information about the payment process.,neutral,7,0
+TKT01036,email,I like the new report download and it is easy to use.,positive,12,0
+TKT01037,chat,My refund is still pending and this experience is frustrating. My ticket number is 73010.,negative,15,0
+TKT01038,email,The product quality is bad and I regret purchasing it. Please respond as soon as possible.,negative,16,1
+TKT01039,email,The response from the team was helpful and professional.,positive,9,0
+TKT01040,app,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT01041,phone,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01042,app,The refund process was fast and convenient. My ticket number is 89875.,positive,12,0
+TKT01043,chat,I need information about the payment process. My ticket number is 90608.,neutral,12,0
+TKT01044,chat,I have raised multiple tickets but nobody has fixed the problem. My ticket number is 70148.,negative,16,0
+TKT01045,phone,The router keeps failing and support has not resolved my issue.,negative,11,0
+TKT01046,social,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01047,email,The app crashes whenever I try to use payment. My ticket number is 29843.,negative,14,1
+TKT01048,chat,The app crashes whenever I try to use analytics.,negative,9,0
+TKT01049,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT01050,app,I need help finding the invoice for my last order. My ticket number is 76238.,neutral,15,0
+TKT01051,app,I like the new login and it is easy to use. My ticket number is 74861.,positive,16,0
+TKT01052,social,Please tell me how to update my account details.,neutral,9,0
+TKT01053,chat,The app experience is smooth and reliable. My ticket number is 14506.,positive,12,0
+TKT01054,email,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT01055,email,Can someone explain the difference between the plans?,neutral,8,0
+TKT01056,chat,I need information about the payment process.,neutral,7,0
+TKT01057,social,I need information about the payment process. My ticket number is 14943.,neutral,12,0
+TKT01058,email,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT01059,phone,The response from the team was helpful and professional.,positive,9,0
+TKT01060,chat,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01061,app,Can you share the status of my insurance policy request?,neutral,10,0
+TKT01062,social,I need information about the payment process.,neutral,7,0
+TKT01063,social,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT01064,email,The internet speed is slow and customer care is not helping.,negative,11,1
+TKT01065,social,The app crashes whenever I try to use video call.,negative,10,0
+TKT01066,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT01067,email,Billing is incorrect and I was charged twice this month.,negative,10,1
+TKT01068,chat,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01069,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT01070,app,Billing is incorrect and I was charged twice this month. My ticket number is 30829. Please respond as soon as possible.,negative,21,1
+TKT01071,app,Can someone explain the difference between the plans? Please respond as soon as possible.,neutral,14,1
+TKT01072,social,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01073,social,The service plan is working well and I am happy with the service.,positive,13,0
+TKT01074,app,Please tell me how to update my account details.,neutral,9,0
+TKT01075,social,The product quality is bad and I regret purchasing it. My ticket number is 34636.,negative,15,1
+TKT01076,app,I am very unhappy because my router has not worked since yesterday. Please respond as soon as possible.,negative,18,1
+TKT01077,app,My refund is still pending and this experience is frustrating.,negative,10,1
+TKT01078,email,The service plan keeps failing and support has not resolved my issue.,negative,12,1
+TKT01079,chat,I am satisfied with the plan and would recommend it to others. My ticket number is 45359.,positive,17,0
+TKT01080,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01081,email,The installation was completed on time and everything works perfectly. My ticket number is 29651.,positive,15,0
+TKT01082,social,My refund is still pending and this experience is frustrating. My ticket number is 84923.,negative,15,1
+TKT01083,email,I want to cancel because the service quality is poor and unreliable. Please respond as soon as possible.,negative,18,1
+TKT01084,email,Can you share the status of my dashboard request? My ticket number is 75336.,neutral,14,0
+TKT01085,chat,The response from the team was helpful and professional. My ticket number is 85263.,positive,14,0
+TKT01086,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01087,chat,The product quality is bad and I regret purchasing it. My ticket number is 59863.,negative,15,0
+TKT01088,app,Can you confirm whether my ticket has been assigned? My ticket number is 18596.,neutral,14,0
+TKT01089,phone,Great service and clear communication from the support team. My ticket number is 45083.,positive,14,0
+TKT01090,chat,I need information about the payment process.,neutral,7,0
+TKT01091,app,Please provide the steps to activate notifications. My ticket number is 96900.,neutral,12,0
+TKT01092,social,I am checking if there is any scheduled maintenance today. My ticket number is 95255.,neutral,15,0
+TKT01093,social,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01094,social,I am very unhappy because my account has not worked since yesterday.,negative,12,0
+TKT01095,social,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT01096,social,The installation was completed on time and everything works perfectly. My ticket number is 74228.,positive,15,0
+TKT01097,chat,The app crashes whenever I try to use video call. Please respond as soon as possible.,negative,16,1
+TKT01098,phone,The app crashes whenever I try to use notifications.,negative,9,0
+TKT01099,chat,The mobile app is working well and I am happy with the service. My ticket number is 39750.,positive,18,0
+TKT01100,phone,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01101,chat,The router keeps failing and support has not resolved my issue.,negative,11,1
+TKT01102,app,Please tell me how to update my account details.,neutral,9,0
+TKT01103,chat,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01104,app,I want to understand the warranty terms for this product.,neutral,10,0
+TKT01105,phone,The installation was completed on time and everything works perfectly. My ticket number is 72473.,positive,15,0
+TKT01106,app,The app crashes whenever I try to use video call.,negative,10,1
+TKT01107,chat,The dashboard keeps failing and support has not resolved my issue. My ticket number is 42791.,negative,16,0
+TKT01108,chat,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01109,social,The response from the team was helpful and professional. My ticket number is 43756.,positive,14,0
+TKT01110,app,The app experience is smooth and reliable.,positive,7,0
+TKT01111,social,I would like to know more about the available plans.,neutral,10,0
+TKT01112,social,I would like to know more about the available plans. My ticket number is 14258.,neutral,15,0
+TKT01113,email,Great service and clear communication from the support team.,positive,9,0
+TKT01114,email,I like the new video call and it is easy to use.,positive,12,0
+TKT01115,phone,The app crashes whenever I try to use analytics. My ticket number is 58404.,negative,14,1
+TKT01116,phone,Please tell me how to update my account details. My ticket number is 27368.,neutral,14,0
+TKT01117,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01118,phone,The response from the team was helpful and professional. I appreciate the quick response.,positive,14,0
+TKT01119,social,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01120,email,I would like to know more about the available plans.,neutral,10,0
+TKT01121,chat,The app experience is smooth and reliable.,positive,7,0
+TKT01122,email,Great service and clear communication from the support team. I appreciate the quick response.,positive,14,0
+TKT01123,social,The app experience is smooth and reliable. My ticket number is 82082.,positive,12,0
+TKT01124,email,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01125,social,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01126,chat,Your support team resolved my issue quickly. Thank you. My ticket number is 51654. I appreciate the quick response.,positive,19,0
+TKT01127,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01128,email,Can you share the status of my mobile app request?,neutral,10,0
+TKT01129,app,I am very unhappy because my account has not worked since after the recent update.,negative,15,1
+TKT01130,email,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01131,chat,The delivery was late and the package arrived damaged. My ticket number is 51100. Please respond as soon as possible.,negative,20,1
+TKT01132,chat,I am very unhappy because my router has not worked since last week. My ticket number is 22915.,negative,18,0
+TKT01133,email,I need information about the payment process.,neutral,7,0
+TKT01134,social,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT01135,social,I would like to know more about the available plans.,neutral,10,0
+TKT01136,chat,Can you confirm whether my ticket has been assigned? My ticket number is 15602. Please respond as soon as possible.,neutral,20,1
+TKT01137,phone,The subscription keeps failing and support has not resolved my issue.,negative,11,1
+TKT01138,email,The order is working well and I am happy with the service. My ticket number is 10841.,positive,17,0
+TKT01139,app,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01140,chat,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT01141,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01142,chat,Can someone explain the difference between the plans? My ticket number is 56448.,neutral,13,0
+TKT01143,app,The refund process was fast and convenient.,positive,7,0
+TKT01144,phone,My refund is still pending and this experience is frustrating. My ticket number is 28322. Please respond as soon as possible.,negative,21,1
+TKT01145,app,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT01146,phone,The delivery was late and the package arrived damaged. My ticket number is 69910.,negative,14,1
+TKT01147,app,The order keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,17,1
+TKT01148,app,The refund process was fast and convenient.,positive,7,0
+TKT01149,email,My refund is still pending and this experience is frustrating. My ticket number is 82247.,negative,15,0
+TKT01150,email,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT01151,email,The installation was completed on time and everything works perfectly. My ticket number is 94390. I appreciate the quick response.,positive,20,0
+TKT01152,chat,I need help finding the invoice for my last order. My ticket number is 44632. Please respond as soon as possible.,neutral,21,1
+TKT01153,email,I would like to know more about the available plans.,neutral,10,0
+TKT01154,app,Can you share the status of my router request?,neutral,9,0
+TKT01155,social,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01156,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT01157,app,I want to cancel because the service quality is poor and unreliable. My ticket number is 81602.,negative,17,0
+TKT01158,phone,The router keeps failing and support has not resolved my issue. My ticket number is 37690.,negative,16,0
+TKT01159,app,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT01160,email,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01161,email,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01162,email,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT01163,chat,The delivery was late and the package arrived damaged.,negative,9,1
+TKT01164,social,The delivery was late and the package arrived damaged.,negative,9,0
+TKT01165,chat,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT01166,chat,Can you confirm whether my ticket has been assigned? My ticket number is 65194.,neutral,14,0
+TKT01167,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT01168,social,Please tell me how to update my account details. My ticket number is 45694. Please respond as soon as possible.,neutral,20,1
+TKT01169,chat,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01170,social,Your support team resolved my issue quickly. Thank you. I appreciate the quick response.,positive,14,0
+TKT01171,social,I need help finding the invoice for my last order. My ticket number is 37251.,neutral,15,0
+TKT01172,app,The delivery was late and the package arrived damaged. My ticket number is 16910.,negative,14,1
+TKT01173,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT01174,social,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT01175,phone,Please tell me how to update my account details.,neutral,9,0
+TKT01176,social,I would like to know more about the available plans. My ticket number is 37026. Please respond as soon as possible.,neutral,21,1
+TKT01177,chat,Please provide the steps to activate login. Please respond as soon as possible.,neutral,13,1
+TKT01178,phone,The mobile app is working well and I am happy with the service.,positive,13,0
+TKT01179,app,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01180,phone,I am very unhappy because my router has not worked since three days ago. My ticket number is 32045.,negative,19,0
+TKT01181,social,I am very unhappy because my mobile app has not worked since last week.,negative,14,1
+TKT01182,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01183,social,Can you confirm whether my ticket has been assigned? My ticket number is 56078. Please respond as soon as possible.,neutral,20,1
+TKT01184,phone,I would like to know more about the available plans. My ticket number is 93399. Please respond as soon as possible.,neutral,21,1
+TKT01185,email,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01186,social,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT01187,app,Please tell me how to update my account details.,neutral,9,0
+TKT01188,app,Please provide the steps to activate tracking.,neutral,7,0
+TKT01189,email,I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.,negative,17,1
+TKT01190,phone,I like the new tracking and it is easy to use.,positive,11,0
+TKT01191,phone,Billing is incorrect and I was charged twice this month. Please respond as soon as possible.,negative,16,1
+TKT01192,social,Can someone explain the difference between the plans? My ticket number is 58618. Please respond as soon as possible.,neutral,19,1
+TKT01193,phone,I need help finding the invoice for my last order.,neutral,10,0
+TKT01194,app,The delivery was late and the package arrived damaged.,negative,9,1
+TKT01195,social,The app crashes whenever I try to use notifications.,negative,9,0
+TKT01196,social,I am satisfied with the plan and would recommend it to others. My ticket number is 65957.,positive,17,0
+TKT01197,app,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT01198,email,Can you share the status of my account request?,neutral,9,0
+TKT01199,phone,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT01200,social,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01201,email,I need help finding the invoice for my last order. Please respond as soon as possible.,neutral,16,1
+TKT01202,email,The refund process was fast and convenient.,positive,7,0
+TKT01203,app,The delivery was late and the package arrived damaged.,negative,9,1
+TKT01204,email,The order is working well and I am happy with the service.,positive,12,0
+TKT01205,chat,Please provide the steps to activate analytics.,neutral,7,0
+TKT01206,phone,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT01207,app,I am very unhappy because my order has not worked since this morning.,negative,13,0
+TKT01208,social,I am very unhappy because my mobile app has not worked since last week.,negative,14,0
+TKT01209,phone,I want to understand the warranty terms for this product.,neutral,10,0
+TKT01210,phone,The delivery was late and the package arrived damaged.,negative,9,0
+TKT01211,app,I would like to know more about the available plans.,neutral,10,0
+TKT01212,email,The dashboard is working well and I am happy with the service.,positive,12,0
+TKT01213,social,The mobile app keeps failing and support has not resolved my issue.,negative,12,1
+TKT01214,app,Can you share the status of my account request?,neutral,9,0
+TKT01215,app,Can someone explain the difference between the plans?,neutral,8,0
+TKT01216,social,The delivery was late and the package arrived damaged. My ticket number is 46865. Please respond as soon as possible.,negative,20,1
+TKT01217,chat,My refund is still pending and this experience is frustrating. My ticket number is 19429.,negative,15,1
+TKT01218,email,Please provide the steps to activate report download. Please respond as soon as possible.,neutral,14,1
+TKT01219,app,The response from the team was helpful and professional.,positive,9,0
+TKT01220,social,The refund process was fast and convenient.,positive,7,0
+TKT01221,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT01222,phone,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT01223,app,The app experience is smooth and reliable.,positive,7,0
+TKT01224,app,Please provide the steps to activate analytics. My ticket number is 29699. Please respond as soon as possible.,neutral,18,1
+TKT01225,email,I want to understand the warranty terms for this product. Please respond as soon as possible.,neutral,16,1
+TKT01226,email,The internet speed is slow and customer care is not helping. Please respond as soon as possible.,negative,17,1
+TKT01227,social,Can you share the status of my account request?,neutral,9,0
+TKT01228,app,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT01229,email,I want to understand the warranty terms for this product.,neutral,10,0
+TKT01230,email,Can you share the status of my subscription request? My ticket number is 84792.,neutral,14,0
+TKT01231,social,The delivery was late and the package arrived damaged. My ticket number is 88644.,negative,14,0
+TKT01232,phone,Please provide the steps to activate payment.,neutral,7,0
+TKT01233,app,I am checking if there is any scheduled maintenance today. My ticket number is 50162.,neutral,15,0
+TKT01234,app,Great service and clear communication from the support team. My ticket number is 70497.,positive,14,0
+TKT01235,phone,Please provide the steps to activate login.,neutral,7,0
+TKT01236,chat,The installation was completed on time and everything works perfectly. I appreciate the quick response.,positive,15,0
+TKT01237,phone,I like the new tracking and it is easy to use.,positive,11,0
+TKT01238,chat,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01239,phone,I am very unhappy because my order has not worked since last week.,negative,13,1
+TKT01240,app,I am checking if there is any scheduled maintenance today. Please respond as soon as possible.,neutral,16,1
+TKT01241,chat,Great service and clear communication from the support team.,positive,9,0
+TKT01242,chat,The app crashes whenever I try to use analytics. My ticket number is 98106. Please respond as soon as possible.,negative,20,1
+TKT01243,app,The app experience is smooth and reliable.,positive,7,0
+TKT01244,email,I am checking if there is any scheduled maintenance today. My ticket number is 36680.,neutral,15,0
+TKT01245,app,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT01246,social,Great service and clear communication from the support team.,positive,9,0
+TKT01247,social,Please tell me how to update my account details.,neutral,9,0
+TKT01248,app,The account is working well and I am happy with the service.,positive,12,0
+TKT01249,chat,My refund is still pending and this experience is frustrating.,negative,10,1
+TKT01250,social,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT01251,chat,The subscription is working well and I am happy with the service. My ticket number is 43842.,positive,17,0
+TKT01252,chat,The product quality is bad and I regret purchasing it. My ticket number is 89726.,negative,15,0
+TKT01253,chat,The router is working well and I am happy with the service. I appreciate the quick response.,positive,17,0
+TKT01254,phone,The account keeps failing and support has not resolved my issue. My ticket number is 20990.,negative,16,0
+TKT01255,app,I am very unhappy because my router has not worked since last week. My ticket number is 17718.,negative,18,1
+TKT01256,phone,I would like to know more about the available plans.,neutral,10,0
+TKT01257,app,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01258,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT01259,email,Billing is incorrect and I was charged twice this month. My ticket number is 50211.,negative,15,0
+TKT01260,social,The dashboard keeps failing and support has not resolved my issue. My ticket number is 17716.,negative,16,0
+TKT01261,social,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT01262,app,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01263,app,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01264,phone,I would like to know more about the available plans. Please respond as soon as possible.,neutral,16,1
+TKT01265,app,Please tell me how to update my account details. My ticket number is 13998. Please respond as soon as possible.,neutral,20,1
+TKT01266,email,The response from the team was helpful and professional. My ticket number is 35083.,positive,14,0
+TKT01267,email,The app crashes whenever I try to use analytics. My ticket number is 15858.,negative,14,0
+TKT01268,chat,The delivery was smooth and the product quality is excellent. My ticket number is 82406. I appreciate the quick response.,positive,20,0
+TKT01269,phone,Billing is incorrect and I was charged twice this month. My ticket number is 62315.,negative,15,0
+TKT01270,phone,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01271,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01272,app,Please tell me how to update my account details.,neutral,9,0
+TKT01273,chat,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT01274,social,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01275,social,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT01276,social,I need information about the payment process. My ticket number is 43600.,neutral,12,0
+TKT01277,email,I want to understand the warranty terms for this product. My ticket number is 19623.,neutral,15,0
+TKT01278,email,The product quality is bad and I regret purchasing it. My ticket number is 26796.,negative,15,0
+TKT01279,chat,The refund process was fast and convenient.,positive,7,0
+TKT01280,social,Billing is incorrect and I was charged twice this month. My ticket number is 76916.,negative,15,1
+TKT01281,social,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT01282,phone,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT01283,app,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01284,app,The app experience is smooth and reliable.,positive,7,0
+TKT01285,chat,The response from the team was helpful and professional. My ticket number is 40284.,positive,14,0
+TKT01286,social,The internet speed is slow and customer care is not helping. Please respond as soon as possible.,negative,17,1
+TKT01287,phone,The app experience is smooth and reliable. My ticket number is 99893. I appreciate the quick response.,positive,17,0
+TKT01288,email,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT01289,app,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01290,social,The app crashes whenever I try to use notifications. My ticket number is 24626.,negative,14,1
+TKT01291,email,Can you share the status of my subscription request?,neutral,9,0
+TKT01292,app,The refund process was fast and convenient.,positive,7,0
+TKT01293,chat,Please tell me how to update my account details. My ticket number is 46800.,neutral,14,0
+TKT01294,social,The product quality is bad and I regret purchasing it. Please respond as soon as possible.,negative,16,1
+TKT01295,chat,The refund process was fast and convenient.,positive,7,0
+TKT01296,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT01297,phone,I am checking if there is any scheduled maintenance today. My ticket number is 64634.,neutral,15,0
+TKT01298,app,I want to cancel because the service quality is poor and unreliable.,negative,12,1
+TKT01299,app,Please tell me how to update my account details.,neutral,9,0
+TKT01300,phone,The response from the team was helpful and professional.,positive,9,0
+TKT01301,phone,Please tell me how to update my account details.,neutral,9,0
+TKT01302,social,I like the new login and it is easy to use.,positive,11,0
+TKT01303,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 89605.,negative,17,0
+TKT01304,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01305,phone,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT01306,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT01307,phone,The delivery was late and the package arrived damaged.,negative,9,1
+TKT01308,phone,Can you share the status of my service plan request?,neutral,10,0
+TKT01309,email,I need information about the payment process.,neutral,7,0
+TKT01310,email,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01311,email,I need information about the payment process. My ticket number is 87822.,neutral,12,0
+TKT01312,chat,The router is working well and I am happy with the service.,positive,12,0
+TKT01313,social,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01314,phone,Please tell me how to update my account details.,neutral,9,0
+TKT01315,app,The app crashes whenever I try to use report download. My ticket number is 79988.,negative,15,0
+TKT01316,email,The app crashes whenever I try to use video call.,negative,10,1
+TKT01317,social,The installation was completed on time and everything works perfectly. My ticket number is 73936.,positive,15,0
+TKT01318,phone,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01319,phone,I would like to know more about the available plans. My ticket number is 95878.,neutral,15,0
+TKT01320,app,Can you confirm whether my ticket has been assigned? My ticket number is 87712.,neutral,14,0
+TKT01321,chat,I would like to know more about the available plans.,neutral,10,0
+TKT01322,chat,Your support team resolved my issue quickly. Thank you. I appreciate the quick response.,positive,14,0
+TKT01323,app,Can you confirm whether my ticket has been assigned? My ticket number is 13329. Please respond as soon as possible.,neutral,20,1
+TKT01324,email,The service plan keeps failing and support has not resolved my issue.,negative,12,1
+TKT01325,email,Can you share the status of my dashboard request?,neutral,9,0
+TKT01326,chat,Please provide the steps to activate notifications.,neutral,7,0
+TKT01327,app,The app crashes whenever I try to use profile update.,negative,10,0
+TKT01328,email,I need information about the payment process. Please respond as soon as possible.,neutral,13,1
+TKT01329,phone,Please tell me how to update my account details.,neutral,9,0
+TKT01330,phone,I like the new payment and it is easy to use. My ticket number is 89115.,positive,16,0
+TKT01331,social,I have raised multiple tickets but nobody has fixed the problem.,negative,11,1
+TKT01332,email,I would like to know more about the available plans.,neutral,10,0
+TKT01333,chat,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01334,chat,Can you share the status of my mobile app request?,neutral,10,0
+TKT01335,social,The app experience is smooth and reliable.,positive,7,0
+TKT01336,chat,I need help finding the invoice for my last order.,neutral,10,0
+TKT01337,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 24182.,negative,17,0
+TKT01338,app,Please tell me how to update my account details.,neutral,9,0
+TKT01339,phone,The response from the team was helpful and professional. My ticket number is 99973.,positive,14,0
+TKT01340,email,The router keeps failing and support has not resolved my issue.,negative,11,0
+TKT01341,social,The internet speed is slow and customer care is not helping. My ticket number is 37010.,negative,16,0
+TKT01342,phone,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01343,social,Your support team resolved my issue quickly. Thank you. My ticket number is 19764.,positive,14,0
+TKT01344,app,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT01345,phone,The delivery was late and the package arrived damaged. My ticket number is 73135.,negative,14,1
+TKT01346,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01347,app,I like the new profile update and it is easy to use.,positive,12,0
+TKT01348,email,I am checking if there is any scheduled maintenance today.,neutral,10,0
+TKT01349,chat,My refund is still pending and this experience is frustrating. My ticket number is 61109.,negative,15,1
+TKT01350,app,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01351,chat,I would like to know more about the available plans.,neutral,10,0
+TKT01352,app,Can you share the status of my dashboard request? My ticket number is 83997.,neutral,14,0
+TKT01353,social,I need information about the payment process.,neutral,7,0
+TKT01354,app,Can you share the status of my router request? Please respond as soon as possible.,neutral,15,1
+TKT01355,phone,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT01356,chat,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT01357,email,Can you share the status of my mobile app request?,neutral,10,0
+TKT01358,social,Can someone explain the difference between the plans? Please respond as soon as possible.,neutral,14,1
+TKT01359,app,The app crashes whenever I try to use analytics.,negative,9,1
+TKT01360,chat,I need information about the payment process. My ticket number is 43255.,neutral,12,0
+TKT01361,email,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01362,social,My refund is still pending and this experience is frustrating.,negative,10,0
+TKT01363,app,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01364,email,The internet speed is slow and customer care is not helping. My ticket number is 55272.,negative,16,0
+TKT01365,email,The response from the team was helpful and professional.,positive,9,0
+TKT01366,app,Billing is incorrect and I was charged twice this month. Please respond as soon as possible.,negative,16,1
+TKT01367,app,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01368,social,The dashboard is working well and I am happy with the service. My ticket number is 95990.,positive,17,0
+TKT01369,chat,The app experience is smooth and reliable. I appreciate the quick response.,positive,12,0
+TKT01370,phone,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01371,email,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01372,phone,I am checking if there is any scheduled maintenance today. My ticket number is 55146.,neutral,15,0
+TKT01373,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01374,social,The response from the team was helpful and professional. My ticket number is 16714.,positive,14,0
+TKT01375,phone,Can you confirm whether my ticket has been assigned?,neutral,9,0
+TKT01376,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT01377,app,Can you confirm whether my ticket has been assigned? My ticket number is 76515.,neutral,14,0
+TKT01378,social,I want to understand the warranty terms for this product.,neutral,10,0
+TKT01379,social,Billing is incorrect and I was charged twice this month. My ticket number is 63708.,negative,15,0
+TKT01380,chat,The app experience is smooth and reliable.,positive,7,0
+TKT01381,app,Please provide the steps to activate profile update.,neutral,8,0
+TKT01382,social,The subscription keeps failing and support has not resolved my issue. Please respond as soon as possible.,negative,17,1
+TKT01383,chat,Please tell me how to update my account details.,neutral,9,0
+TKT01384,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 28756. Please respond as soon as possible.,negative,23,1
+TKT01385,email,The response from the team was helpful and professional.,positive,9,0
+TKT01386,chat,The refund process was fast and convenient.,positive,7,0
+TKT01387,social,The internet speed is slow and customer care is not helping. Please respond as soon as possible.,negative,17,1
+TKT01388,social,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT01389,social,My refund is still pending and this experience is frustrating. My ticket number is 85845.,negative,15,0
+TKT01390,social,The response from the team was helpful and professional.,positive,9,0
+TKT01391,chat,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01392,social,Can you share the status of my service plan request?,neutral,10,0
+TKT01393,chat,Please tell me how to update my account details. Please respond as soon as possible.,neutral,15,1
+TKT01394,social,The app experience is smooth and reliable.,positive,7,0
+TKT01395,app,Please provide the steps to activate tracking.,neutral,7,0
+TKT01396,app,My refund is still pending and this experience is frustrating. My ticket number is 30644.,negative,15,0
+TKT01397,chat,The service plan keeps failing and support has not resolved my issue. My ticket number is 65982. Please respond as soon as possible.,negative,23,1
+TKT01398,chat,Great service and clear communication from the support team. My ticket number is 20299.,positive,14,0
+TKT01399,chat,Can you confirm whether my ticket has been assigned? Please respond as soon as possible.,neutral,15,1
+TKT01400,phone,The router is working well and I am happy with the service. My ticket number is 45597. I appreciate the quick response.,positive,22,0
+TKT01401,app,I need help finding the invoice for my last order.,neutral,10,0
+TKT01402,app,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT01403,social,I want to cancel because the service quality is poor and unreliable. My ticket number is 80065.,negative,17,1
+TKT01404,app,I like the new login and it is easy to use.,positive,11,0
+TKT01405,email,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT01406,email,The response from the team was helpful and professional. My ticket number is 27639.,positive,14,0
+TKT01407,phone,My refund is still pending and this experience is frustrating. Please respond as soon as possible.,negative,16,1
+TKT01408,email,The dashboard keeps failing and support has not resolved my issue.,negative,11,0
+TKT01409,phone,I want to understand the warranty terms for this product. My ticket number is 83708. Please respond as soon as possible.,neutral,21,1
+TKT01410,app,The delivery was late and the package arrived damaged.,negative,9,0
+TKT01411,phone,Can someone explain the difference between the plans?,neutral,8,0
+TKT01412,email,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT01413,email,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT01414,social,The response from the team was helpful and professional.,positive,9,0
+TKT01415,email,Please provide the steps to activate notifications. My ticket number is 81488.,neutral,12,0
+TKT01416,app,The product quality is bad and I regret purchasing it.,negative,10,0
+TKT01417,social,Can you confirm whether my ticket has been assigned? My ticket number is 54906.,neutral,14,0
+TKT01418,app,Great service and clear communication from the support team.,positive,9,0
+TKT01419,social,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01420,chat,The insurance policy is working well and I am happy with the service.,positive,13,0
+TKT01421,email,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT01422,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT01423,chat,Please tell me how to update my account details.,neutral,9,0
+TKT01424,phone,I need help finding the invoice for my last order.,neutral,10,0
+TKT01425,email,The router is working well and I am happy with the service. I appreciate the quick response.,positive,17,0
+TKT01426,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01427,chat,Can you share the status of my subscription request? My ticket number is 90003.,neutral,14,0
+TKT01428,chat,The installation was completed on time and everything works perfectly. My ticket number is 85393.,positive,15,0
+TKT01429,email,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01430,phone,I like the new tracking and it is easy to use.,positive,11,0
+TKT01431,social,I need information about the payment process. My ticket number is 36580. Please respond as soon as possible.,neutral,18,1
+TKT01432,phone,I am very unhappy because my subscription has not worked since three days ago.,negative,14,0
+TKT01433,phone,The internet speed is slow and customer care is not helping. My ticket number is 96331.,negative,16,0
+TKT01434,email,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT01435,chat,The app experience is smooth and reliable. My ticket number is 35749.,positive,12,0
+TKT01436,social,Please provide the steps to activate analytics.,neutral,7,0
+TKT01437,chat,I am satisfied with the plan and would recommend it to others.,positive,12,0
+TKT01438,chat,My refund is still pending and this experience is frustrating. My ticket number is 73098.,negative,15,1
+TKT01439,app,The delivery was late and the package arrived damaged. Please respond as soon as possible.,negative,15,1
+TKT01440,email,The order is working well and I am happy with the service. My ticket number is 41683.,positive,17,0
+TKT01441,app,The dashboard keeps failing and support has not resolved my issue. My ticket number is 27310.,negative,16,0
+TKT01442,social,I am satisfied with the plan and would recommend it to others. I appreciate the quick response.,positive,17,0
+TKT01443,phone,The response from the team was helpful and professional. My ticket number is 94886.,positive,14,0
+TKT01444,phone,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT01445,app,The delivery was smooth and the product quality is excellent. I appreciate the quick response.,positive,15,0
+TKT01446,chat,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT01447,phone,The response from the team was helpful and professional.,positive,9,0
+TKT01448,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT01449,app,My refund is still pending and this experience is frustrating. My ticket number is 66437. Please respond as soon as possible.,negative,21,1
+TKT01450,app,The order keeps failing and support has not resolved my issue. My ticket number is 11213.,negative,16,1
+TKT01451,app,I am satisfied with the plan and would recommend it to others. My ticket number is 89575.,positive,17,0
+TKT01452,chat,I want to understand the warranty terms for this product.,neutral,10,0
+TKT01453,phone,Please provide the steps to activate login. My ticket number is 15784. Please respond as soon as possible.,neutral,18,1
+TKT01454,social,The refund process was fast and convenient.,positive,7,0
+TKT01455,app,Can someone explain the difference between the plans? My ticket number is 61214.,neutral,13,0
+TKT01456,phone,Great service and clear communication from the support team.,positive,9,0
+TKT01457,app,The app crashes whenever I try to use login.,negative,9,1
+TKT01458,chat,Great service and clear communication from the support team. My ticket number is 14492. I appreciate the quick response.,positive,19,0
+TKT01459,app,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01460,email,Billing is incorrect and I was charged twice this month.,negative,10,0
+TKT01461,social,I like the new profile update and it is easy to use.,positive,12,0
+TKT01462,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT01463,app,The internet speed is slow and customer care is not helping.,negative,11,0
+TKT01464,app,Please provide the steps to activate notifications.,neutral,7,0
+TKT01465,social,Your support team resolved my issue quickly. Thank you.,positive,9,0
+TKT01466,email,The refund process was fast and convenient. I appreciate the quick response.,positive,12,0
+TKT01467,social,The app experience is smooth and reliable. I appreciate the quick response.,positive,12,0
+TKT01468,app,I am satisfied with the plan and would recommend it to others. My ticket number is 71567.,positive,17,0
+TKT01469,email,The insurance policy is working well and I am happy with the service.,positive,13,0
+TKT01470,email,Please tell me how to update my account details. My ticket number is 72978.,neutral,14,0
+TKT01471,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01472,email,I am very unhappy because my subscription has not worked since three days ago. Please respond as soon as possible.,negative,20,1
+TKT01473,social,I need help finding the invoice for my last order.,neutral,10,0
+TKT01474,phone,Can you confirm whether my ticket has been assigned? My ticket number is 36502.,neutral,14,0
+TKT01475,social,The delivery was late and the package arrived damaged.,negative,9,1
+TKT01476,phone,The delivery was late and the package arrived damaged. My ticket number is 84467.,negative,14,0
+TKT01477,phone,The refund process was fast and convenient.,positive,7,0
+TKT01478,app,The product quality is bad and I regret purchasing it.,negative,10,1
+TKT01479,app,I want to cancel because the service quality is poor and unreliable. My ticket number is 47613. Please respond as soon as possible.,negative,23,1
+TKT01480,email,The app experience is smooth and reliable. My ticket number is 58360.,positive,12,0
+TKT01481,social,Your support team resolved my issue quickly. Thank you. My ticket number is 62762.,positive,14,0
+TKT01482,phone,The delivery was smooth and the product quality is excellent.,positive,10,0
+TKT01483,app,I need help finding the invoice for my last order.,neutral,10,0
+TKT01484,phone,I want to understand the warranty terms for this product. My ticket number is 28972. Please respond as soon as possible.,neutral,21,1
+TKT01485,app,Please tell me how to update my account details.,neutral,9,0
+TKT01486,social,The account keeps failing and support has not resolved my issue. My ticket number is 19656.,negative,16,0
+TKT01487,social,I want to cancel because the service quality is poor and unreliable.,negative,12,0
+TKT01488,email,The installation was completed on time and everything works perfectly. My ticket number is 44562.,positive,15,0
+TKT01489,phone,The installation was completed on time and everything works perfectly.,positive,10,0
+TKT01490,chat,The refund process was fast and convenient.,positive,7,0
+TKT01491,email,I am very unhappy because my insurance policy has not worked since yesterday. My ticket number is 35952.,negative,18,0
+TKT01492,email,Great service and clear communication from the support team.,positive,9,0
+TKT01493,email,I need information about the payment process.,neutral,7,0
+TKT01494,app,The internet speed is slow and customer care is not helping. My ticket number is 46030.,negative,16,0
+TKT01495,phone,Can you confirm whether my ticket has been assigned? My ticket number is 23705.,neutral,14,0
+TKT01496,app,The refund process was fast and convenient. My ticket number is 29984.,positive,12,0
+TKT01497,social,Can you share the status of my service plan request? My ticket number is 68947.,neutral,15,0
+TKT01498,email,I need help finding the invoice for my last order.,neutral,10,0
+TKT01499,phone,The refund process was fast and convenient.,positive,7,0
+TKT01500,email,Billing is incorrect and I was charged twice this month.,negative,10,1
