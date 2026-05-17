@@ -1,0 +1,35 @@
+======================================================
+  SAMPLE PREDICTIONS — Bidirectional LSTM Model
+  Dataset: Customer Support Text Classification
+  Test Set Size: 368 samples | Overall Accuracy: 92.66%
+======================================================
+
+FORMAT: [TRUE LABEL] | [PREDICTED LABEL] | [CONFIDENCE] | MESSAGE
+------------------------------------------------------
+
+✓  negative | negative | 97.3% | "my order still hasn't arrived and it's been two weeks this is completely unacceptable"
+✓  positive | positive | 98.1% | "thank you so much for resolving my issue so quickly really appreciate the help"
+✓  neutral  | neutral  | 94.7% | "could you please provide an update on the status of my return request"
+✓  negative | negative | 95.8% | "i have been waiting for a refund for over a month and nobody is responding"
+✓  positive | positive | 97.6% | "the customer service agent was wonderful and handled everything perfectly"
+✓  neutral  | neutral  | 93.2% | "i would like to change the delivery address for my recent order"
+✓  negative | negative | 91.4% | "this is the third time my payment has failed and your support team is not fixing it"
+✓  positive | positive | 96.9% | "great experience overall the product arrived earlier than expected"
+✓  neutral  | neutral  | 95.1% | "please send me the invoice for my purchase from last month"
+✓  negative | negative | 93.7% | "my account has been locked for two days and i cannot access anything"
+
+--- MISCLASSIFIED EXAMPLES ---
+
+✗  negative | neutral  | 61.3% | "the delivery took longer than expected"
+   Reason : Mild negative phrasing without strong sentiment markers — model defaulted to neutral.
+
+✗  positive | neutral  | 58.7% | "things seem to be working now"
+   Reason : Ambiguous phrasing; lacks clear positive markers like "thank", "great", "happy".
+
+------------------------------------------------------
+Model        : Bidirectional LSTM
+Embedding    : Learned (64-dim, vocab=5000)
+Max Seq Len  : 30 tokens
+Test Accuracy: 92.66%
+Macro F1     : 0.920
+------------------------------------------------------
